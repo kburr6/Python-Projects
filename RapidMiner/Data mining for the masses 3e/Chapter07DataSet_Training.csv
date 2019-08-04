@@ -1,0 +1,494 @@
+Age,Material,Deterioration,Water_Pillars,Traffic_Volume,Major_Repairs,Bridge_Action
+63,Wood,4,1,3,1,Monitor
+35,Wood,29,0,5,2,Schedule Repair/Replacement
+22,Steel,8,1,4,5,Monitor
+42,Concrete,28,1,1,2,Schedule Assessment
+40,Wood,1,0,3,1,Schedule Assessment
+37,Wood,55,1,5,1,Schedule Repair/Replacement
+48,Steel,7,1,5,2,Monitor
+19,Steel,29,1,3,1,Monitor
+18,Steel,45,1,3,3,Monitor
+18,Steel,12,1,1,2,Monitor
+23,Concrete,19,0,4,1,Monitor
+43,Concrete,40,1,5,1,Schedule Repair/Replacement
+34,Concrete,61,0,4,2,Schedule Repair/Replacement
+32,Concrete,28,1,5,1,Schedule Assessment
+35,Steel,13,1,5,2,Monitor
+50,Wood,11,0,5,2,Monitor
+30,Wood,34,1,5,1,Schedule Repair/Replacement
+25,Concrete,35,1,3,3,Monitor
+42,Wood,4,1,5,3,Monitor
+52,Concrete,4,0,4,1,Monitor
+55,Concrete,29,1,2,1,Schedule Assessment
+29,Wood,48,1,1,1,Schedule Assessment
+37,Concrete,27,0,4,1,Schedule Assessment
+45,Wood,20,1,3,2,Schedule Assessment
+49,Wood,55,1,5,3,Schedule Repair/Replacement
+49,Wood,35,0,1,6,Schedule Assessment
+54,Wood,11,1,3,6,Monitor
+16,Steel,39,1,1,3,Monitor
+22,Steel,45,0,3,2,Monitor
+53,Concrete,4,1,5,1,Monitor
+49,Concrete,4,1,5,1,Monitor
+50,Wood,5,1,3,6,Monitor
+36,Wood,8,1,4,2,Monitor
+35,Concrete,11,0,4,1,Monitor
+17,Wood,39,1,1,2,Monitor
+22,Steel,54,1,4,3,Schedule Repair/Replacement
+25,Concrete,3,1,4,2,Monitor
+23,Steel,29,1,4,2,Monitor
+40,Concrete,63,1,4,1,Immediate Repair/Replacement
+18,Steel,29,1,3,5,Monitor
+22,Wood,29,1,3,5,Monitor
+22,Wood,15,1,3,2,Monitor
+42,Concrete,48,0,5,1,Schedule Repair/Replacement
+46,Concrete,20,1,5,6,Monitor
+39,Concrete,35,1,3,1,Schedule Repair/Replacement
+29,Wood,8,0,4,5,Monitor
+24,Concrete,4,1,3,1,Monitor
+31,Wood,43,1,4,2,Schedule Assessment
+19,Steel,55,1,3,1,Schedule Repair/Replacement
+39,Steel,25,1,4,1,Monitor
+22,Concrete,40,1,3,2,Monitor
+56,Concrete,61,0,2,1,Schedule Repair/Replacement
+25,Wood,11,1,4,1,Monitor
+51,Wood,11,1,5,3,Schedule Assessment
+29,Concrete,36,0,5,1,Schedule Assessment
+40,Concrete,4,0,4,1,Monitor
+18,Steel,29,0,1,1,Monitor
+54,Wood,40,0,5,1,Schedule Repair/Replacement
+27,Wood,40,0,4,2,Schedule Assessment
+49,Wood,50,0,3,1,Schedule Assessment
+27,Steel,58,1,3,2,Schedule Repair/Replacement
+36,Concrete,101,1,5,1,Immediate Repair/Replacement
+39,Wood,33,0,5,1,Schedule Repair/Replacement
+41,Concrete,24,0,3,6,Monitor
+23,Wood,43,1,4,1,Monitor
+42,Wood,37,1,3,2,Schedule Assessment
+54,Wood,20,1,4,1,Schedule Assessment
+26,Wood,51,1,1,6,Monitor
+17,Steel,35,0,3,3,Monitor
+20,Steel,32,1,3,1,Schedule Assessment
+45,Wood,34,1,4,2,Schedule Assessment
+63,Concrete,40,1,2,1,Schedule Repair/Replacement
+25,Wood,8,1,5,1,Monitor
+42,Wood,27,0,4,1,Schedule Assessment
+17,Steel,40,1,1,6,Monitor
+33,Wood,4,1,4,6,Monitor
+24,Wood,8,1,5,4,Monitor
+19,Steel,4,0,3,6,Monitor
+40,Wood,8,1,5,1,Monitor
+28,Concrete,40,1,4,2,Schedule Repair/Replacement
+35,Concrete,69,1,3,1,Schedule Repair/Replacement
+37,Steel,32,1,1,1,Schedule Assessment
+42,Steel,12,0,5,1,Monitor
+24,Concrete,18,1,4,2,Monitor
+18,Wood,8,1,3,3,Monitor
+18,Steel,25,0,3,1,Monitor
+24,Wood,35,0,4,2,Monitor
+17,Steel,3,0,1,1,Monitor
+22,Steel,57,1,3,1,Schedule Repair/Replacement
+40,Wood,30,1,4,1,Schedule Assessment
+50,Wood,19,1,4,1,Schedule Assessment
+29,Wood,33,0,4,1,Schedule Assessment
+21,Concrete,36,1,1,2,Monitor
+46,Wood,103,1,5,1,Immediate Repair/Replacement
+44,Concrete,5,1,4,1,Monitor
+31,Concrete,8,0,4,2,Monitor
+35,Concrete,39,0,4,2,Schedule Repair/Replacement
+22,Wood,17,1,5,2,Monitor
+52,Concrete,35,1,2,6,Schedule Repair/Replacement
+34,Concrete,48,1,4,1,Immediate Repair/Replacement
+22,Steel,66,0,3,1,Monitor
+20,Steel,29,1,3,1,Monitor
+63,Wood,50,1,5,1,Schedule Repair/Replacement
+44,Wood,42,1,5,1,Schedule Repair/Replacement
+24,Wood,94,1,5,2,Immediate Repair/Replacement
+62,Steel,4,0,3,1,Monitor
+20,Steel,7,0,3,1,Monitor
+33,Concrete,4,0,5,0,Monitor
+26,Wood,40,1,1,1,Monitor
+39,Concrete,13,1,5,2,Monitor
+24,Wood,48,0,4,1,Schedule Assessment
+40,Steel,35,1,5,1,Schedule Repair/Replacement
+55,Wood,29,1,3,1,Schedule Assessment
+46,Wood,45,1,5,1,Schedule Repair/Replacement
+18,Steel,8,0,3,2,Monitor
+52,Wood,11,0,5,1,Monitor
+29,Concrete,55,0,5,2,Schedule Repair/Replacement
+23,Steel,38,1,3,3,Monitor
+29,Wood,19,1,1,2,Monitor
+22,Steel,45,0,3,6,Monitor
+31,Wood,39,1,4,1,Schedule Assessment
+38,Concrete,29,0,5,2,Schedule Assessment
+20,Steel,59,1,3,2,Schedule Repair/Replacement
+39,Concrete,32,1,3,1,Schedule Repair/Replacement
+55,Steel,30,1,5,1,Schedule Assessment
+44,Wood,48,0,4,1,Schedule Repair/Replacement
+22,Steel,45,0,4,6,Monitor
+49,Concrete,70,1,5,1,Immediate Repair/Replacement
+21,Wood,54,1,3,6,Immediate Repair/Replacement
+30,Concrete,89,1,4,1,Immediate Repair/Replacement
+16,Steel,18,1,1,1,Monitor
+20,Wood,99,0,1,4,Schedule Assessment
+44,Steel,25,0,5,5,Monitor
+47,Wood,35,1,3,2,Schedule Assessment
+16,Steel,14,0,1,2,Monitor
+30,Concrete,32,1,3,1,Schedule Repair/Replacement
+28,Wood,59,1,5,2,Schedule Repair/Replacement
+16,Steel,17,0,1,2,Monitor
+30,Wood,8,1,4,1,Monitor
+33,Concrete,8,1,3,1,Monitor
+65,Concrete,29,0,5,1,Schedule Assessment
+21,Steel,50,1,1,2,Monitor
+33,Wood,25,0,5,3,Schedule Assessment
+34,Wood,22,1,3,1,Schedule Assessment
+56,Concrete,12,0,5,0,Monitor
+15,Steel,12,1,1,1,Monitor
+31,Wood,48,1,3,1,Schedule Repair/Replacement
+19,Steel,11,0,3,1,Monitor
+56,Wood,35,1,4,1,Schedule Repair/Replacement
+36,Wood,21,0,4,2,Schedule Assessment
+18,Steel,19,0,3,1,Monitor
+51,Concrete,8,0,4,1,Monitor
+25,Steel,40,1,4,2,Monitor
+20,Steel,2,1,3,2,Monitor
+25,Concrete,47,0,4,1,Monitor
+58,Wood,6,1,1,1,Monitor
+33,Wood,4,0,4,2,Monitor
+46,Concrete,40,1,2,5,Schedule Repair/Replacement
+33,Wood,54,1,1,1,Schedule Assessment
+55,Wood,6,1,4,0,Monitor
+23,Wood,4,0,4,2,Monitor
+28,Wood,30,1,5,4,Schedule Repair/Replacement
+19,Steel,29,1,3,3,Monitor
+22,Wood,54,1,1,2,Schedule Assessment
+45,Concrete,23,1,4,2,Monitor
+29,Concrete,11,0,5,1,Monitor
+23,Wood,40,0,4,6,Monitor
+31,Concrete,8,0,5,6,Monitor
+45,Concrete,8,1,3,6,Monitor
+18,Steel,32,0,1,4,Monitor
+24,Steel,45,1,3,1,Monitor
+48,Wood,5,1,5,1,Monitor
+37,Wood,29,0,4,1,Schedule Assessment
+42,Concrete,23,1,4,1,Monitor
+48,Concrete,34,0,4,2,Schedule Repair/Replacement
+51,Steel,29,1,5,1,Schedule Assessment
+36,Wood,69,1,4,2,Immediate Repair/Replacement
+31,Concrete,15,1,1,1,Monitor
+21,Steel,4,1,3,2,Monitor
+27,Wood,19,1,5,2,Schedule Assessment
+20,Steel,54,0,3,5,Monitor
+50,Wood,40,1,3,1,Schedule Assessment
+24,Wood,32,0,4,2,Monitor
+28,Wood,50,1,5,1,Schedule Repair/Replacement
+18,Steel,7,0,3,1,Monitor
+34,Concrete,44,0,3,1,Schedule Assessment
+32,Concrete,4,0,3,1,Monitor
+42,Concrete,15,0,2,2,Monitor
+29,Wood,4,1,3,0,Monitor
+32,Concrete,32,1,4,2,Schedule Assessment
+24,Steel,4,1,4,1,Monitor
+24,Wood,8,1,3,3,Monitor
+49,Wood,64,1,3,1,Immediate Repair/Replacement
+41,Wood,51,0,5,1,Schedule Repair/Replacement
+24,Concrete,40,1,4,1,Monitor
+22,Steel,35,1,3,1,Monitor
+41,Steel,30,0,4,1,Schedule Assessment
+36,Steel,16,1,4,1,Monitor
+24,Wood,48,0,5,4,Schedule Assessment
+23,Steel,43,0,3,1,Monitor
+42,Wood,29,1,3,5,Schedule Assessment
+42,Concrete,28,1,3,1,Schedule Assessment
+38,Concrete,16,1,1,1,Monitor
+31,Concrete,19,0,2,5,Monitor
+41,Wood,91,1,5,1,Immediate Repair/Replacement
+23,Steel,45,1,3,5,Monitor
+54,Concrete,40,1,4,6,Schedule Repair/Replacement
+52,Wood,4,0,3,4,Monitor
+23,Steel,44,1,3,1,Monitor
+17,Steel,20,1,1,1,Monitor
+39,Concrete,19,0,1,1,Monitor
+44,Concrete,35,1,2,1,Schedule Repair/Replacement
+30,Concrete,100,1,3,2,Schedule Repair/Replacement
+49,Concrete,35,0,5,1,Schedule Repair/Replacement
+27,Wood,19,1,4,2,Schedule Assessment
+27,Concrete,28,0,5,5,Schedule Assessment
+18,Steel,35,1,1,3,Monitor
+56,Concrete,31,1,4,1,Schedule Repair/Replacement
+55,Concrete,18,1,5,1,Monitor
+26,Steel,8,1,5,1,Monitor
+44,Steel,5,0,4,1,Monitor
+17,Steel,30,1,1,1,Monitor
+23,Steel,16,1,4,3,Monitor
+38,Wood,18,1,4,1,Schedule Assessment
+18,Steel,8,1,1,2,Monitor
+42,Concrete,59,1,4,1,Immediate Repair/Replacement
+17,Steel,32,0,3,1,Monitor
+20,Steel,40,0,3,2,Monitor
+26,Wood,50,1,1,4,Monitor
+28,Steel,4,0,3,1,Monitor
+62,Concrete,4,1,2,6,Monitor
+43,Steel,50,1,5,1,Schedule Repair/Replacement
+22,Wood,48,1,4,2,Schedule Repair/Replacement
+18,Steel,19,0,1,2,Monitor
+39,Wood,63,0,5,2,Schedule Repair/Replacement
+50,Wood,29,1,5,1,Schedule Repair/Replacement
+49,Wood,19,1,3,1,Monitor
+34,Wood,76,1,4,1,Immediate Repair/Replacement
+38,Concrete,45,0,3,2,Schedule Assessment
+15,Steel,36,1,1,2,Monitor
+54,Concrete,8,1,3,1,Monitor
+26,Steel,24,1,3,2,Monitor
+27,Concrete,23,0,4,3,Monitor
+19,Steel,20,0,3,2,Monitor
+18,Steel,35,0,1,1,Monitor
+25,Wood,35,1,3,3,Monitor
+30,Concrete,54,1,2,6,Monitor
+32,Wood,28,0,4,1,Schedule Assessment
+36,Concrete,11,0,3,2,Monitor
+25,Concrete,43,1,4,2,Monitor
+47,Wood,35,0,5,2,Schedule Repair/Replacement
+44,Wood,48,1,5,1,Schedule Repair/Replacement
+43,Wood,41,0,3,1,Schedule Repair/Replacement
+39,Wood,55,1,4,1,Schedule Repair/Replacement
+29,Concrete,14,0,3,1,Monitor
+30,Concrete,8,1,5,1,Monitor
+25,Wood,32,1,1,3,Monitor
+51,Steel,11,0,5,6,Monitor
+41,Steel,103,1,5,1,Immediate Repair/Replacement
+33,Wood,5,1,3,2,Monitor
+22,Steel,39,0,5,2,Monitor
+48,Wood,36,1,5,1,Schedule Repair/Replacement
+19,Steel,41,0,3,3,Monitor
+40,Concrete,16,0,4,1,Monitor
+35,Wood,29,1,4,2,Schedule Assessment
+28,Concrete,18,0,5,1,Monitor
+27,Wood,98,1,5,4,Immediate Repair/Replacement
+48,Concrete,8,1,2,2,Monitor
+39,Concrete,4,0,4,2,Monitor
+35,Concrete,40,1,5,1,Schedule Repair/Replacement
+18,Steel,29,0,3,3,Monitor
+27,Concrete,40,1,5,2,Schedule Repair/Replacement
+24,Wood,4,1,4,1,Monitor
+53,Concrete,7,1,4,6,Monitor
+29,Wood,8,1,5,2,Monitor
+45,Wood,29,1,3,2,Schedule Assessment
+54,Wood,4,0,3,2,Monitor
+26,Wood,43,0,3,1,Schedule Assessment
+49,Concrete,8,0,4,1,Monitor
+29,Concrete,29,0,5,1,Schedule Assessment
+46,Steel,4,1,5,2,Monitor
+18,Steel,48,0,1,1,Monitor
+47,Wood,22,1,5,1,Schedule Assessment
+18,Steel,16,0,3,1,Monitor
+32,Wood,4,1,4,2,Monitor
+24,Wood,35,1,4,2,Monitor
+29,Wood,29,1,4,1,Schedule Assessment
+18,Steel,55,1,3,1,Immediate Repair/Replacement
+32,Wood,40,1,3,3,Schedule Assessment
+36,Concrete,43,1,4,4,Schedule Assessment
+23,Wood,13,0,4,1,Monitor
+33,Wood,29,0,3,0,Schedule Assessment
+31,Concrete,12,1,4,0,Monitor
+48,Steel,32,1,3,1,Schedule Repair/Replacement
+44,Steel,10,0,4,5,Monitor
+18,Steel,7,1,3,5,Monitor
+15,Steel,19,1,1,1,Monitor
+35,Concrete,47,0,4,6,Schedule Repair/Replacement
+53,Concrete,29,0,5,1,Schedule Assessment
+17,Steel,32,1,1,2,Monitor
+52,Concrete,30,1,1,1,Schedule Assessment
+36,Wood,4,1,4,1,Monitor
+73,Wood,28,1,4,1,Schedule Repair/Replacement
+24,Wood,8,1,4,5,Monitor
+40,Wood,35,0,3,2,Schedule Repair/Replacement
+21,Steel,65,1,3,6,Schedule Repair/Replacement
+26,Wood,11,1,1,1,Monitor
+28,Concrete,29,0,4,2,Schedule Assessment
+26,Wood,14,1,4,1,Schedule Assessment
+29,Concrete,11,0,4,1,Monitor
+80,Concrete,35,1,2,1,Schedule Repair/Replacement
+39,Wood,40,1,4,1,Schedule Repair/Replacement
+17,Steel,18,0,1,2,Monitor
+52,Steel,7,0,5,1,Monitor
+15,Steel,41,1,1,1,Monitor
+34,Wood,27,1,3,5,Schedule Assessment
+18,Steel,14,1,3,1,Monitor
+26,Steel,19,1,5,3,Monitor
+45,Concrete,8,1,2,0,Monitor
+21,Steel,40,1,1,5,Monitor
+27,Wood,4,0,4,1,Monitor
+43,Wood,39,1,3,1,Schedule Assessment
+19,Steel,50,1,1,4,Monitor
+49,Concrete,32,1,3,1,Schedule Repair/Replacement
+19,Steel,40,1,3,1,Monitor
+18,Steel,54,1,4,2,Schedule Repair/Replacement
+17,Steel,8,1,1,5,Monitor
+41,Wood,29,1,3,3,Schedule Assessment
+29,Wood,48,1,5,4,Schedule Repair/Replacement
+37,Steel,43,1,5,3,Schedule Repair/Replacement
+42,Wood,4,0,3,2,Monitor
+29,Wood,28,1,3,2,Schedule Assessment
+21,Steel,19,1,4,2,Monitor
+20,Steel,4,0,3,1,Monitor
+56,Concrete,35,0,2,1,Schedule Repair/Replacement
+76,Steel,30,1,5,1,Schedule Repair/Replacement
+25,Wood,19,1,4,2,Monitor
+36,Wood,16,1,5,6,Schedule Assessment
+18,Steel,55,1,1,2,Monitor
+30,Wood,4,0,4,1,Monitor
+26,Concrete,35,0,3,1,Schedule Assessment
+21,Concrete,29,1,1,1,Monitor
+20,Steel,32,0,3,1,Monitor
+24,Steel,40,1,3,1,Monitor
+20,Steel,43,0,1,6,Monitor
+44,Concrete,40,1,5,1,Schedule Repair/Replacement
+42,Concrete,8,0,2,1,Monitor
+35,Concrete,0,0,3,1,Monitor
+21,Wood,19,1,4,3,Monitor
+19,Steel,29,1,3,2,Monitor
+24,Steel,45,0,1,1,Monitor
+26,Concrete,25,1,3,2,Monitor
+19,Steel,35,0,3,1,Monitor
+27,Steel,54,0,3,3,Schedule Repair/Replacement
+46,Wood,43,1,4,6,Schedule Repair/Replacement
+32,Wood,7,0,3,1,Monitor
+36,Concrete,19,1,3,1,Monitor
+54,Concrete,48,1,5,1,Schedule Repair/Replacement
+41,Wood,4,1,4,1,Monitor
+27,Wood,4,1,3,0,Monitor
+50,Concrete,36,0,3,1,Schedule Repair/Replacement
+19,Steel,33,0,3,2,Monitor
+37,Concrete,43,1,5,1,Schedule Repair/Replacement
+29,Concrete,29,0,4,1,Schedule Assessment
+19,Steel,30,1,3,2,Monitor
+27,Wood,59,1,4,3,Schedule Repair/Replacement
+49,Concrete,40,1,5,1,Schedule Repair/Replacement
+31,Wood,92,1,5,3,Immediate Repair/Replacement
+18,Steel,33,0,1,1,Monitor
+49,Wood,6,1,4,1,Monitor
+42,Steel,20,0,5,1,Monitor
+26,Steel,40,1,4,1,Schedule Repair/Replacement
+40,Wood,4,1,3,2,Monitor
+19,Steel,34,1,3,1,Monitor
+52,Steel,35,1,5,1,Schedule Repair/Replacement
+41,Concrete,20,1,2,1,Monitor
+51,Concrete,47,1,4,2,Immediate Repair/Replacement
+22,Steel,42,0,4,1,Monitor
+43,Concrete,40,1,5,1,Schedule Repair/Replacement
+26,Concrete,18,0,4,1,Monitor
+38,Concrete,3,0,3,1,Monitor
+26,Concrete,72,1,4,4,Immediate Repair/Replacement
+18,Steel,45,1,3,2,Monitor
+50,Steel,8,0,5,1,Monitor
+17,Steel,6,1,1,2,Monitor
+32,Concrete,50,1,5,1,Immediate Repair/Replacement
+42,Wood,19,0,5,3,Monitor
+38,Concrete,55,1,2,3,Schedule Repair/Replacement
+20,Steel,4,0,3,1,Monitor
+32,Wood,39,1,3,2,Schedule Assessment
+40,Wood,32,0,5,1,Schedule Repair/Replacement
+22,Steel,13,0,4,1,Monitor
+35,Wood,4,0,4,2,Monitor
+22,Wood,98,1,2,6,Schedule Repair/Replacement
+57,Wood,4,1,3,6,Monitor
+57,Concrete,28,1,3,1,Schedule Assessment
+46,Concrete,8,1,4,1,Monitor
+58,Steel,30,1,5,1,Schedule Assessment
+48,Wood,35,0,1,1,Schedule Assessment
+50,Wood,9,1,5,2,Monitor
+44,Steel,16,1,5,2,Monitor
+37,Wood,21,1,5,2,Schedule Assessment
+16,Steel,21,1,1,3,Monitor
+50,Steel,61,0,4,1,Schedule Repair/Replacement
+13,Steel,7,0,1,2,Monitor
+38,Steel,32,1,5,2,Schedule Repair/Replacement
+34,Wood,28,1,4,1,Schedule Assessment
+18,Concrete,7,1,3,2,Monitor
+22,Steel,45,0,3,2,Monitor
+30,Wood,4,1,4,5,Monitor
+27,Concrete,18,1,4,1,Monitor
+48,Wood,28,1,3,3,Schedule Assessment
+18,Steel,43,1,3,2,Monitor
+35,Steel,33,1,5,2,Schedule Repair/Replacement
+57,Concrete,25,1,3,6,Monitor
+33,Wood,11,1,5,1,Schedule Assessment
+29,Wood,40,1,4,1,Schedule Repair/Replacement
+32,Concrete,43,1,4,1,Schedule Assessment
+33,Wood,12,1,4,1,Schedule Assessment
+26,Wood,4,0,4,2,Monitor
+25,Steel,12,0,5,1,Monitor
+24,Steel,23,1,3,1,Monitor
+29,Wood,4,1,3,1,Monitor
+22,Wood,28,1,4,2,Monitor
+32,Concrete,66,1,4,2,Schedule Repair/Replacement
+40,Wood,55,1,4,1,Immediate Repair/Replacement
+24,Steel,50,1,4,2,Schedule Repair/Replacement
+41,Concrete,18,0,4,1,Monitor
+26,Concrete,32,1,3,2,Schedule Assessment
+25,Wood,23,1,5,1,Monitor
+21,Steel,47,1,3,2,Schedule Assessment
+49,Wood,5,0,3,5,Monitor
+59,Concrete,4,1,2,1,Monitor
+21,Concrete,29,0,3,6,Monitor
+24,Wood,20,1,5,1,Schedule Assessment
+26,Steel,101,1,5,2,Immediate Repair/Replacement
+47,Concrete,11,1,4,0,Monitor
+25,Wood,103,0,5,5,Immediate Repair/Replacement
+31,Wood,4,0,2,1,Monitor
+46,Concrete,4,1,5,1,Monitor
+15,Steel,33,0,1,6,Monitor
+18,Steel,43,0,1,1,Monitor
+40,Steel,29,1,4,1,Schedule Assessment
+43,Wood,48,0,3,3,Schedule Repair/Replacement
+32,Wood,29,1,4,2,Schedule Repair/Replacement
+46,Wood,48,0,4,2,Schedule Repair/Replacement
+25,Wood,8,1,3,3,Monitor
+50,Concrete,37,1,4,1,Schedule Repair/Replacement
+40,Concrete,50,0,3,1,Schedule Assessment
+18,Steel,32,0,1,2,Monitor
+53,Concrete,3,1,5,1,Monitor
+37,Wood,98,1,5,2,Immediate Repair/Replacement
+29,Concrete,43,1,2,1,Monitor
+57,Wood,63,0,1,1,Schedule Assessment
+27,Wood,32,1,4,2,Schedule Assessment
+17,Steel,30,1,1,1,Monitor
+37,Concrete,4,0,5,1,Monitor
+36,Wood,86,1,1,1,Schedule Repair/Replacement
+19,Steel,64,0,3,3,Monitor
+40,Concrete,35,0,4,6,Schedule Repair/Replacement
+42,Wood,5,1,4,2,Monitor
+62,Wood,28,1,1,1,Schedule Repair/Replacement
+22,Steel,29,1,1,1,Monitor
+27,Steel,59,1,2,1,Monitor
+40,Wood,18,1,3,1,Monitor
+38,Steel,29,0,3,1,Schedule Assessment
+43,Concrete,4,1,3,6,Monitor
+27,Wood,4,1,4,1,Monitor
+29,Concrete,4,1,3,2,Monitor
+30,Concrete,101,1,3,1,Immediate Repair/Replacement
+18,Steel,35,1,1,2,Monitor
+31,Steel,42,0,3,1,Schedule Assessment
+46,Concrete,103,1,3,1,Immediate Repair/Replacement
+56,Wood,4,1,5,1,Monitor
+24,Concrete,4,1,5,3,Monitor
+28,Steel,103,0,5,1,Immediate Repair/Replacement
+44,Concrete,18,1,4,1,Monitor
+32,Concrete,11,1,2,2,Monitor
+45,Wood,20,0,4,1,Schedule Assessment
+37,Wood,8,1,5,1,Monitor
+46,Concrete,34,0,4,1,Schedule Repair/Replacement
+39,Wood,45,0,5,1,Schedule Repair/Replacement
+35,Wood,7,0,5,6,Monitor
+27,Concrete,20,1,1,1,Monitor
+38,Concrete,29,1,2,1,Schedule Assessment
+29,Wood,45,0,5,1,Schedule Repair/Replacement
+31,Wood,43,0,5,1,Schedule Repair/Replacement
+23,Wood,4,0,4,5,Monitor
+36,Concrete,35,1,5,2,Schedule Repair/Replacement
+31,Concrete,45,0,5,2,Schedule Repair/Replacement
+53,Wood,8,0,3,1,Monitor
+22,Steel,55,1,3,1,Immediate Repair/Replacement
+28,Wood,29,0,3,2,Schedule Assessment

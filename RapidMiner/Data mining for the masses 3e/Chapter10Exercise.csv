@@ -1,0 +1,1310 @@
+Name,PassengerClass,Sex,Age,Fare,Port,Survived
+"Allen, Miss. Elisabeth Walton",1,female,29,211.3375,S,Lived
+"Allison, Master. Hudson Trevor",1,male,0.9167,151.55,S,Lived
+"Allison, Miss. Helen Loraine",1,female,2,151.55,S,Lost
+"Allison, Mr. Hudson Joshua Creighton",1,male,30,151.55,S,Died
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",1,female,25,151.55,S,Lost
+"Anderson, Mr. Harry",1,male,48,26.55,S,Lived
+"Andrews, Miss. Kornelia Theodosia",1,female,63,77.9583,S,Lived
+"Andrews, Mr. Thomas Jr",1,male,39,0,S,Lost
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",1,female,53,51.4792,S,Lived
+"Artagaveytia, Mr. Ramon",1,male,71,49.5042,C,Died
+"Astor, Col. John Jacob",1,male,47,227.525,C,Died
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",1,female,18,227.525,C,Lived
+"Aubart, Mme. Leontine Pauline",1,female,24,69.3,C,Lived
+"Barber, Miss. Ellen ""Nellie""",1,female,26,78.85,S,Lived
+"Barkworth, Mr. Algernon Henry Wilson",1,male,80,30,S,Lived
+"Baumann, Mr. John D",1,male,,25.925,S,Lost
+"Baxter, Mr. Quigg Edmond",1,male,24,247.5208,C,Lost
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",1,female,50,247.5208,C,Lived
+"Bazzani, Miss. Albina",1,female,32,76.2917,C,Lived
+"Beattie, Mr. Thomson",1,male,36,75.2417,C,Lost
+"Beckwith, Mr. Richard Leonard",1,male,37,52.5542,S,Lived
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",1,female,47,52.5542,S,Lived
+"Behr, Mr. Karl Howell",1,male,26,30,C,Lived
+"Bidois, Miss. Rosalie",1,female,42,227.525,C,Lived
+"Bird, Miss. Ellen",1,female,29,221.7792,S,Lived
+"Birnbaum, Mr. Jakob",1,male,25,26,C,Died
+"Bishop, Mr. Dickinson H",1,male,25,91.0792,C,Lived
+"Bishop, Mrs. Dickinson H (Helen Walton)",1,female,19,91.0792,C,Lived
+"Bissette, Miss. Amelia",1,female,35,135.6333,S,Lived
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",1,male,28,26.55,S,Lived
+"Blackwell, Mr. Stephen Weart",1,male,45,35.5,S,Lost
+"Blank, Mr. Henry",1,male,40,31,C,Lived
+"Bonnell, Miss. Caroline",1,female,30,164.8667,S,Lived
+"Bonnell, Miss. Elizabeth",1,female,58,26.55,S,Lived
+"Borebank, Mr. John James",1,male,42,26.55,S,Lost
+"Bowen, Miss. Grace Scott",1,female,45,262.375,C,Lived
+"Bowerman, Miss. Elsie Edith",1,female,22,55,S,Lived
+"Bradley, Mr. George (""George Arthur Brayton"")",1,male,,26.55,S,Lived
+"Brady, Mr. John Bertram",1,male,41,30.5,S,Lost
+"Brandeis, Mr. Emil",1,male,48,50.4958,C,Died
+"Brewe, Dr. Arthur Jackson",1,male,,39.6,C,Lost
+"Brown, Mrs. James Joseph (Margaret Tobin)",1,female,44,27.7208,C,Lived
+"Brown, Mrs. John Murray (Caroline Lane Lamson)",1,female,59,51.4792,S,Lived
+"Bucknell, Mrs. William Robert (Emma Eliza Ward)",1,female,60,76.2917,C,Lived
+"Burns, Miss. Elizabeth Margaret",1,female,41,134.5,C,Lived
+"Butt, Major. Archibald Willingham",1,male,45,26.55,S,Lost
+"Cairns, Mr. Alexander",1,male,,31,S,Lost
+"Calderhead, Mr. Edward Pennington",1,male,42,26.2875,S,Lived
+"Candee, Mrs. Edward (Helen Churchill Hungerford)",1,female,53,27.4458,C,Lived
+"Cardeza, Mr. Thomas Drake Martinez",1,male,36,512.3292,C,Lived
+"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",1,female,58,512.3292,C,Lived
+"Carlsson, Mr. Frans Olof",1,male,33,5,S,Lost
+"Carrau, Mr. Francisco M",1,male,28,47.1,S,Lost
+"Carrau, Mr. Jose Pedro",1,male,17,47.1,S,Lost
+"Carter, Master. William Thornton II",1,male,11,120,S,Lived
+"Carter, Miss. Lucile Polk",1,female,14,120,S,Lived
+"Carter, Mr. William Ernest",1,male,36,120,S,Lived
+"Carter, Mrs. William Ernest (Lucile Polk)",1,female,36,120,S,Lived
+"Case, Mr. Howard Brown",1,male,49,26,S,Lost
+"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",1,female,,27.7208,C,Lived
+"Cavendish, Mr. Tyrell William",1,male,36,78.85,S,Died
+"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",1,female,76,78.85,S,Lived
+"Chaffee, Mr. Herbert Fuller",1,male,46,61.175,S,Lost
+"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",1,female,47,61.175,S,Lived
+"Chambers, Mr. Norman Campbell",1,male,27,53.1,S,Lived
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",1,female,33,53.1,S,Lived
+"Chaudanson, Miss. Victorine",1,female,36,262.375,C,Lived
+"Cherry, Miss. Gladys",1,female,30,86.5,S,Lived
+"Chevre, Mr. Paul Romaine",1,male,45,29.7,C,Lived
+"Chibnall, Mrs. (Edith Martha Bowerman)",1,female,,55,S,Lived
+"Chisholm, Mr. Roderick Robert Crispin",1,male,,0,S,Lost
+"Clark, Mr. Walter Miller",1,male,27,136.7792,C,Lost
+"Clark, Mrs. Walter Miller (Virginia McDowell)",1,female,26,136.7792,C,Lived
+"Cleaver, Miss. Alice",1,female,22,151.55,S,Lived
+"Clifford, Mr. George Quincy",1,male,,52,S,Lost
+"Colley, Mr. Edward Pomeroy",1,male,47,25.5875,S,Lost
+"Compton, Miss. Sara Rebecca",1,female,39,83.1583,C,Lived
+"Compton, Mr. Alexander Taylor Jr",1,male,37,83.1583,C,Lost
+"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",1,female,64,83.1583,C,Lived
+"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",1,female,55,25.7,S,Lived
+"Crafton, Mr. John Bertram",1,male,,26.55,S,Lost
+"Crosby, Capt. Edward Gifford",1,male,70,71,S,Died
+"Crosby, Miss. Harriet R",1,female,36,71,S,Lived
+"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",1,female,64,26.55,S,Lived
+"Cumings, Mr. John Bradley",1,male,39,71.2833,C,Lost
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",1,female,38,71.2833,C,Lived
+"Daly, Mr. Peter Denis",1,male,51,26.55,S,Lived
+"Daniel, Mr. Robert Williams",1,male,27,30.5,S,Lived
+"Daniels, Miss. Sarah",1,female,33,151.55,S,Lived
+"Davidson, Mr. Thornton",1,male,31,52,S,Lost
+"Davidson, Mrs. Thornton (Orian Hays)",1,female,27,52,S,Lived
+"Dick, Mr. Albert Adrian",1,male,31,57,S,Lived
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",1,female,17,57,S,Lived
+"Dodge, Dr. Washington",1,male,53,81.8583,S,Lived
+"Dodge, Master. Washington",1,male,4,81.8583,S,Lived
+"Dodge, Mrs. Washington (Ruth Vidaver)",1,female,54,81.8583,S,Lived
+"Douglas, Mr. Walter Donald",1,male,50,106.425,C,Died
+"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",1,female,27,247.5208,C,Lived
+"Douglas, Mrs. Walter Donald (Mahala Dutton)",1,female,48,106.425,C,Lived
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",1,female,48,39.6,C,Lived
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",1,male,49,56.9292,C,Lived
+"Dulles, Mr. William Crothers",1,male,39,29.7,C,Died
+"Earnshaw, Mrs. Boulton (Olive Potter)",1,female,23,83.1583,C,Lived
+"Endres, Miss. Caroline Louise",1,female,38,227.525,C,Lived
+"Eustis, Miss. Elizabeth Mussey",1,female,54,78.2667,C,Lived
+"Evans, Miss. Edith Corse",1,female,36,31.6792,C,Lost
+"Farthing, Mr. John",1,male,,221.7792,S,Lost
+"Flegenheim, Mrs. Alfred (Antoinette)",1,female,,31.6833,S,Lived
+"Fleming, Miss. Margaret",1,female,,110.8833,C,Lived
+"Flynn, Mr. John Irwin (""Irving"")",1,male,36,26.3875,S,Lived
+"Foreman, Mr. Benjamin Laventall",1,male,30,27.75,C,Lost
+"Fortune, Miss. Alice Elizabeth",1,female,24,263,S,Lived
+"Fortune, Miss. Ethel Flora",1,female,28,263,S,Lived
+"Fortune, Miss. Mabel Helen",1,female,23,263,S,Lived
+"Fortune, Mr. Charles Alexander",1,male,19,263,S,Lost
+"Fortune, Mr. Mark",1,male,64,263,S,Lost
+"Fortune, Mrs. Mark (Mary McDougald)",1,female,60,263,S,Lived
+"Francatelli, Miss. Laura Mabel",1,female,30,56.9292,C,Lived
+"Franklin, Mr. Thomas Parham",1,male,,26.55,S,Lost
+"Frauenthal, Dr. Henry William",1,male,50,133.65,S,Lived
+"Frauenthal, Mr. Isaac Gerald",1,male,43,27.7208,C,Lived
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",1,female,,133.65,S,Lived
+"Frolicher, Miss. Hedwig Margaritha",1,female,22,49.5,C,Lived
+"Frolicher-Stehli, Mr. Maxmillian",1,male,60,79.2,C,Lived
+"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1,female,48,79.2,C,Lived
+"Fry, Mr. Richard",1,male,,0,S,Lost
+"Futrelle, Mr. Jacques Heath",1,male,37,53.1,S,Lost
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",1,female,35,53.1,S,Lived
+"Gee, Mr. Arthur H",1,male,47,38.5,S,Died
+"Geiger, Miss. Amalie",1,female,35,211.5,C,Lived
+"Gibson, Miss. Dorothy Winifred",1,female,22,59.4,C,Lived
+"Gibson, Mrs. Leonard (Pauline C Boeson)",1,female,45,59.4,C,Lived
+"Giglio, Mr. Victor",1,male,24,79.2,C,Lost
+"Goldenberg, Mr. Samuel L",1,male,49,89.1042,C,Lived
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",1,female,,89.1042,C,Lived
+"Goldschmidt, Mr. George B",1,male,71,34.6542,C,Lost
+"Gracie, Col. Archibald IV",1,male,53,28.5,C,Lived
+"Graham, Miss. Margaret Edith",1,female,19,30,S,Lived
+"Graham, Mr. George Edward",1,male,38,153.4625,S,Died
+"Graham, Mrs. William Thompson (Edith Junkins)",1,female,58,153.4625,S,Lived
+"Greenfield, Mr. William Bertram",1,male,23,63.3583,C,Lived
+"Greenfield, Mrs. Leo David (Blanche Strouse)",1,female,45,63.3583,C,Lived
+"Guggenheim, Mr. Benjamin",1,male,46,79.2,C,Lost
+"Harder, Mr. George Achilles",1,male,25,55.4417,C,Lived
+"Harder, Mrs. George Achilles (Dorothy Annan)",1,female,25,55.4417,C,Lived
+"Harper, Mr. Henry Sleeper",1,male,48,76.7292,C,Lived
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",1,female,49,76.7292,C,Lived
+"Harrington, Mr. Charles H",1,male,,42.4,S,Lost
+"Harris, Mr. Henry Birkhardt",1,male,45,83.475,S,Lost
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",1,female,35,83.475,S,Lived
+"Harrison, Mr. William",1,male,40,0,S,Died
+"Hassab, Mr. Hammad",1,male,27,76.7292,C,Lived
+"Hawksford, Mr. Walter James",1,male,,30,S,Lived
+"Hays, Miss. Margaret Bechstein",1,female,24,83.1583,C,Lived
+"Hays, Mr. Charles Melville",1,male,55,93.5,S,Died
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",1,female,52,93.5,S,Lived
+"Head, Mr. Christopher",1,male,42,42.5,S,Lost
+"Hilliard, Mr. Herbert Henry",1,male,,51.8625,S,Lost
+"Hipkins, Mr. William Edward",1,male,55,50,S,Lost
+"Hippach, Miss. Jean Gertrude",1,female,16,57.9792,C,Lived
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",1,female,44,57.9792,C,Lived
+"Hogeboom, Mrs. John C (Anna Andrews)",1,female,51,77.9583,S,Lived
+"Holverson, Mr. Alexander Oskar",1,male,42,52,S,Died
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",1,female,35,52,S,Lived
+"Homer, Mr. Harry (""Mr E Haven"")",1,male,35,26.55,C,Lived
+"Hoyt, Mr. Frederick Maxfield",1,male,38,90,S,Lived
+"Hoyt, Mr. William Fisher",1,male,,30.6958,C,Lost
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",1,female,35,90,S,Lived
+"Icard, Miss. Amelie",1,female,38,80,,Lived
+"Isham, Miss. Ann Elizabeth",1,female,50,28.7125,C,Lost
+"Ismay, Mr. Joseph Bruce",1,male,49,0,S,Lived
+"Jones, Mr. Charles Cresson",1,male,46,26,S,Died
+"Julian, Mr. Henry Forbes",1,male,50,26,S,Lost
+"Keeping, Mr. Edwin",1,male,32.5,211.5,C,Died
+"Kent, Mr. Edward Austin",1,male,58,29.7,C,Died
+"Kenyon, Mr. Frederick R",1,male,41,51.8625,S,Lost
+"Kenyon, Mrs. Frederick R (Marion)",1,female,,51.8625,S,Lived
+"Kimball, Mr. Edwin Nelson Jr",1,male,42,52.5542,S,Lived
+"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",1,female,45,52.5542,S,Lived
+"Klaber, Mr. Herman",1,male,,26.55,S,Lost
+"Kreuchen, Miss. Emilie",1,female,39,211.3375,S,Lived
+"Leader, Dr. Alice (Farnham)",1,female,49,25.9292,S,Lived
+"LeRoy, Miss. Bertha",1,female,30,106.425,C,Lived
+"Lesurer, Mr. Gustave J",1,male,35,512.3292,C,Lived
+"Lewy, Mr. Ervin G",1,male,,27.7208,C,Lost
+"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",1,male,42,26.55,S,Lost
+"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",1,female,55,27.7208,C,Lived
+"Lines, Miss. Mary Conover",1,female,16,39.4,S,Lived
+"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1,female,51,39.4,S,Lived
+"Long, Mr. Milton Clyde",1,male,29,30,S,Died
+"Longley, Miss. Gretchen Fiske",1,female,21,77.9583,S,Lived
+"Loring, Mr. Joseph Holland",1,male,30,45.5,S,Lost
+"Lurette, Miss. Elise",1,female,58,146.5208,C,Lived
+"Madill, Miss. Georgette Alexandra",1,female,15,211.3375,S,Lived
+"Maguire, Mr. John Edward",1,male,30,26,S,Lost
+"Maioni, Miss. Roberta",1,female,16,86.5,S,Lived
+"Marechal, Mr. Pierre",1,male,,29.7,C,Lived
+"Marvin, Mr. Daniel Warner",1,male,19,53.1,S,Lost
+"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",1,female,18,53.1,S,Lived
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",1,female,24,49.5042,C,Lived
+"McCaffry, Mr. Thomas Francis",1,male,46,75.2417,C,Died
+"McCarthy, Mr. Timothy J",1,male,54,51.8625,S,Died
+"McGough, Mr. James Robert",1,male,36,26.2875,S,Lived
+"Meyer, Mr. Edgar Joseph",1,male,28,82.1708,C,Lost
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",1,female,,82.1708,C,Lived
+"Millet, Mr. Francis Davis",1,male,65,26.55,S,Died
+"Minahan, Dr. William Edward",1,male,44,90,Q,Died
+"Minahan, Miss. Daisy E",1,female,33,90,Q,Lived
+"Minahan, Mrs. William Edward (Lillian E Thorpe)",1,female,37,90,Q,Lived
+"Mock, Mr. Philipp Edmund",1,male,30,57.75,C,Lived
+"Molson, Mr. Harry Markland",1,male,55,30.5,S,Lost
+"Moore, Mr. Clarence Bloomfield",1,male,47,42.4,S,Lost
+"Natsch, Mr. Charles H",1,male,37,29.7,C,Lost
+"Newell, Miss. Madeleine",1,female,31,113.275,C,Lived
+"Newell, Miss. Marjorie",1,female,23,113.275,C,Lived
+"Newell, Mr. Arthur Webster",1,male,58,113.275,C,Died
+"Newsom, Miss. Helen Monypeny",1,female,19,26.2833,S,Lived
+"Nicholson, Mr. Arthur Ernest",1,male,64,26,S,Died
+"Oliva y Ocana, Dona. Fermina",1,female,39,108.9,C,Lived
+"Omont, Mr. Alfred Fernand",1,male,,25.7417,C,Lived
+"Ostby, Miss. Helene Ragnhild",1,female,22,61.9792,C,Lived
+"Ostby, Mr. Engelhart Cornelius",1,male,65,61.9792,C,Died
+"Ovies y Rodriguez, Mr. Servando",1,male,28.5,27.7208,C,Died
+"Parr, Mr. William Henry Marsh",1,male,,0,S,Lost
+"Partner, Mr. Austen",1,male,45.5,28.5,S,Died
+"Payne, Mr. Vivian Ponsonby",1,male,23,93.5,S,Lost
+"Pears, Mr. Thomas Clinton",1,male,29,66.6,S,Lost
+"Pears, Mrs. Thomas (Edith Wearne)",1,female,22,66.6,S,Lived
+"Penasco y Castellana, Mr. Victor de Satode",1,male,18,108.9,C,Lost
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",1,female,17,108.9,C,Lived
+"Perreault, Miss. Anne",1,female,30,93.5,S,Lived
+"Peuchen, Major. Arthur Godfrey",1,male,52,30.5,S,Lived
+"Porter, Mr. Walter Chamberlain",1,male,47,52,S,Died
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",1,female,56,83.1583,C,Lived
+"Reuchlin, Jonkheer. John George",1,male,38,0,S,Lost
+"Rheims, Mr. George Alexander Lucien",1,male,,39.6,S,Lived
+"Ringhini, Mr. Sante",1,male,22,135.6333,C,Died
+"Robbins, Mr. Victor",1,male,,227.525,C,Lost
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",1,female,43,211.3375,S,Lived
+"Roebling, Mr. Washington Augustus II",1,male,31,50.4958,S,Lost
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",1,male,45,26.55,S,Lived
+"Rood, Mr. Hugh Roscoe",1,male,,50,S,Lost
+"Rosenbaum, Miss. Edith Louise",1,female,33,27.7208,C,Lived
+"Rosenshine, Mr. George (""Mr George Thorne"")",1,male,46,79.2,C,Died
+"Ross, Mr. John Hugo",1,male,36,40.125,C,Lost
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",1,female,33,86.5,S,Lived
+"Rothschild, Mr. Martin",1,male,55,59.4,C,Lost
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",1,female,54,59.4,C,Lived
+"Rowe, Mr. Alfred G",1,male,33,26.55,S,Died
+"Ryerson, Master. John Borie",1,male,13,262.375,C,Lived
+"Ryerson, Miss. Emily Borie",1,female,18,262.375,C,Lived
+"Ryerson, Miss. Susan Parker ""Suzette""",1,female,21,262.375,C,Lived
+"Ryerson, Mr. Arthur Larned",1,male,61,262.375,C,Lost
+"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",1,female,48,262.375,C,Lived
+"Saalfeld, Mr. Adolphe",1,male,,30.5,S,Lived
+"Sagesser, Mlle. Emma",1,female,24,69.3,C,Lived
+"Salomon, Mr. Abraham L",1,male,,26,S,Lived
+"Schabert, Mrs. Paul (Emma Mock)",1,female,35,57.75,C,Lived
+"Serepeca, Miss. Augusta",1,female,30,31,C,Lived
+"Seward, Mr. Frederic Kimber",1,male,34,26.55,S,Lived
+"Shutes, Miss. Elizabeth W",1,female,40,153.4625,S,Lived
+"Silverthorne, Mr. Spencer Victor",1,male,35,26.2875,S,Lived
+"Silvey, Mr. William Baird",1,male,50,55.9,S,Lost
+"Silvey, Mrs. William Baird (Alice Munger)",1,female,39,55.9,S,Lived
+"Simonius-Blumer, Col. Oberst Alfons",1,male,56,35.5,C,Lived
+"Sloper, Mr. William Thompson",1,male,28,35.5,S,Lived
+"Smart, Mr. John Montgomery",1,male,56,26.55,S,Lost
+"Smith, Mr. James Clinch",1,male,56,30.6958,C,Lost
+"Smith, Mr. Lucien Philip",1,male,24,60,S,Lost
+"Smith, Mr. Richard William",1,male,,26,S,Lost
+"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",1,female,18,60,S,Lived
+"Snyder, Mr. John Pillsbury",1,male,24,82.2667,S,Lived
+"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",1,female,23,82.2667,S,Lived
+"Spedden, Master. Robert Douglas",1,male,6,134.5,C,Lived
+"Spedden, Mr. Frederic Oakley",1,male,45,134.5,C,Lived
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",1,female,40,134.5,C,Lived
+"Spencer, Mr. William Augustus",1,male,57,146.5208,C,Lost
+"Spencer, Mrs. William Augustus (Marie Eugenie)",1,female,,146.5208,C,Lived
+"Stahelin-Maeglin, Dr. Max",1,male,32,30.5,C,Lived
+"Stead, Mr. William Thomas",1,male,62,26.55,S,Lost
+"Stengel, Mr. Charles Emil Henry",1,male,54,55.4417,C,Lived
+"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",1,female,43,55.4417,C,Lived
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",1,female,52,78.2667,C,Lived
+"Stewart, Mr. Albert A",1,male,,27.7208,C,Lost
+"Stone, Mrs. George Nelson (Martha Evelyn)",1,female,62,80,,Lived
+"Straus, Mr. Isidor",1,male,67,221.7792,S,Died
+"Straus, Mrs. Isidor (Rosalie Ida Blun)",1,female,63,221.7792,S,Lost
+"Sutton, Mr. Frederick",1,male,61,32.3208,S,Died
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",1,female,48,25.9292,S,Lived
+"Taussig, Miss. Ruth",1,female,18,79.65,S,Lived
+"Taussig, Mr. Emil",1,male,52,79.65,S,Lost
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",1,female,39,79.65,S,Lived
+"Taylor, Mr. Elmer Zebley",1,male,48,52,S,Lived
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",1,female,,52,S,Lived
+"Thayer, Mr. John Borland",1,male,49,110.8833,C,Lost
+"Thayer, Mr. John Borland Jr",1,male,17,110.8833,C,Lived
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",1,female,39,110.8833,C,Lived
+"Thorne, Mrs. Gertrude Maybelle",1,female,,79.2,C,Lived
+"Tucker, Mr. Gilbert Milligan Jr",1,male,31,28.5375,C,Lived
+"Uruchurtu, Don. Manuel E",1,male,40,27.7208,C,Lost
+"Van der hoef, Mr. Wyckoff",1,male,61,33.5,S,Died
+"Walker, Mr. William Anderson",1,male,47,34.0208,S,Lost
+"Ward, Miss. Anna",1,female,35,512.3292,C,Lived
+"Warren, Mr. Frank Manley",1,male,64,75.25,C,Lost
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",1,female,60,75.25,C,Lived
+"Weir, Col. John",1,male,60,26.55,S,Lost
+"White, Mr. Percival Wayland",1,male,54,77.2875,S,Lost
+"White, Mr. Richard Frasar",1,male,21,77.2875,S,Died
+"White, Mrs. John Stuart (Ella Holmes)",1,female,55,135.6333,C,Lived
+"Wick, Miss. Mary Natalie",1,female,31,164.8667,S,Lived
+"Wick, Mr. George Dennick",1,male,57,164.8667,S,Lost
+"Wick, Mrs. George Dennick (Mary Hitchcock)",1,female,45,164.8667,S,Lived
+"Widener, Mr. George Dunton",1,male,50,211.5,C,Lost
+"Widener, Mr. Harry Elkins",1,male,27,211.5,C,Lost
+"Widener, Mrs. George Dunton (Eleanor Elkins)",1,female,50,211.5,C,Lived
+"Willard, Miss. Constance",1,female,21,26.55,S,Lived
+"Williams, Mr. Charles Duane",1,male,51,61.3792,C,Lost
+"Williams, Mr. Richard Norris II",1,male,21,61.3792,C,Lived
+"Williams-Lambert, Mr. Fletcher Fellows",1,male,,35,S,Lost
+"Wilson, Miss. Helen Alice",1,female,31,134.5,C,Lived
+"Woolner, Mr. Hugh",1,male,,35.5,S,Lived
+"Wright, Mr. George",1,male,62,26.55,S,Lost
+"Young, Miss. Marie Grice",1,female,36,135.6333,C,Lived
+"Abelson, Mr. Samuel",2,male,30,24,C,Lost
+"Abelson, Mrs. Samuel (Hannah Wizosky)",2,female,28,24,C,Lived
+"Aldworth, Mr. Charles Augustus",2,male,30,13,S,Lost
+"Andrew, Mr. Edgardo Samuel",2,male,18,11.5,S,Lost
+"Andrew, Mr. Frank Thomas",2,male,25,10.5,S,Lost
+"Angle, Mr. William A",2,male,34,26,S,Lost
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",2,female,36,26,S,Lived
+"Ashby, Mr. John",2,male,57,13,S,Lost
+"Bailey, Mr. Percy Andrew",2,male,18,11.5,S,Lost
+"Baimbrigge, Mr. Charles Robert",2,male,23,10.5,S,Lost
+"Ball, Mrs. (Ada E Hall)",2,female,36,13,S,Lived
+"Banfield, Mr. Frederick James",2,male,28,10.5,S,Lost
+"Bateman, Rev. Robert James",2,male,51,12.525,S,Died
+"Beane, Mr. Edward",2,male,32,26,S,Lived
+"Beane, Mrs. Edward (Ethel Clarke)",2,female,19,26,S,Lived
+"Beauchamp, Mr. Henry James",2,male,28,26,S,Lost
+"Becker, Master. Richard F",2,male,1,39,S,Lived
+"Becker, Miss. Marion Louise",2,female,4,39,S,Lived
+"Becker, Miss. Ruth Elizabeth",2,female,12,39,S,Lived
+"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",2,female,36,39,S,Lived
+"Beesley, Mr. Lawrence",2,male,34,13,S,Lived
+"Bentham, Miss. Lilian W",2,female,19,13,S,Lived
+"Berriman, Mr. William John",2,male,23,13,S,Lost
+"Botsford, Mr. William Hull",2,male,26,13,S,Lost
+"Bowenur, Mr. Solomon",2,male,42,13,S,Lost
+"Bracken, Mr. James H",2,male,27,13,S,Lost
+"Brown, Miss. Amelia ""Mildred""",2,female,24,13,S,Lived
+"Brown, Miss. Edith Eileen",2,female,15,39,S,Lived
+"Brown, Mr. Thomas William Solomon",2,male,60,39,S,Lost
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",2,female,40,39,S,Lived
+"Bryhl, Miss. Dagmar Jenny Ingeborg",2,female,20,26,S,Lived
+"Bryhl, Mr. Kurt Arnold Gottfrid",2,male,25,26,S,Lost
+"Buss, Miss. Kate",2,female,36,13,S,Lived
+"Butler, Mr. Reginald Fenton",2,male,25,13,S,Died
+"Byles, Rev. Thomas Roussel Davids",2,male,42,13,S,Lost
+"Bystrom, Mrs. (Karolina)",2,female,42,13,S,Lived
+"Caldwell, Master. Alden Gates",2,male,0.8333,29,S,Lived
+"Caldwell, Mr. Albert Francis",2,male,26,29,S,Lived
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",2,female,22,29,S,Lived
+"Cameron, Miss. Clear Annie",2,female,35,21,S,Lived
+"Campbell, Mr. William",2,male,,0,S,Lost
+"Carbines, Mr. William",2,male,19,13,S,Died
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",2,female,44,26,S,Lost
+"Carter, Rev. Ernest Courtenay",2,male,54,26,S,Lost
+"Chapman, Mr. Charles Henry",2,male,52,13.5,S,Died
+"Chapman, Mr. John Henry",2,male,37,26,S,Died
+"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",2,female,29,26,S,Lost
+"Christy, Miss. Julie Rachel",2,female,25,30,S,Lived
+"Christy, Mrs. (Alice Frances)",2,female,45,30,S,Lived
+"Clarke, Mr. Charles Valentine",2,male,29,26,S,Lost
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",2,female,28,26,S,Lived
+"Coleridge, Mr. Reginald Charles",2,male,29,10.5,S,Lost
+"Collander, Mr. Erik Gustaf",2,male,28,13,S,Lost
+"Collett, Mr. Sidney C Stuart",2,male,24,10.5,S,Lived
+"Collyer, Miss. Marjorie ""Lottie""",2,female,8,26.25,S,Lived
+"Collyer, Mr. Harvey",2,male,31,26.25,S,Lost
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",2,female,31,26.25,S,Lived
+"Cook, Mrs. (Selena Rogers)",2,female,22,10.5,S,Lived
+"Corbett, Mrs. Walter H (Irene Colvin)",2,female,30,13,S,Lost
+"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",2,female,,21,S,Lost
+"Cotterill, Mr. Henry ""Harry""",2,male,21,11.5,S,Lost
+"Cunningham, Mr. Alfred Fleming",2,male,,0,S,Lost
+"Davies, Master. John Morgan Jr",2,male,8,36.75,S,Lived
+"Davies, Mr. Charles Henry",2,male,18,73.5,S,Lost
+"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",2,female,48,36.75,S,Lived
+"Davis, Miss. Mary",2,female,28,13,S,Lived
+"de Brito, Mr. Jose Joaquim",2,male,32,13,S,Lost
+"Deacon, Mr. Percy William",2,male,17,73.5,S,Lost
+"del Carlo, Mr. Sebastiano",2,male,29,27.7208,C,Died
+"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",2,female,24,27.7208,C,Lived
+"Denbury, Mr. Herbert",2,male,25,31.5,S,Lost
+"Dibden, Mr. William",2,male,18,73.5,S,Lost
+"Doling, Miss. Elsie",2,female,18,23,S,Lived
+"Doling, Mrs. John T (Ada Julia Bone)",2,female,34,23,S,Lived
+"Downton, Mr. William James",2,male,54,26,S,Lost
+"Drew, Master. Marshall Brines",2,male,8,32.5,S,Lived
+"Drew, Mr. James Vivian",2,male,42,32.5,S,Lost
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",2,female,34,32.5,S,Lived
+"Duran y More, Miss. Asuncion",2,female,27,13.8583,C,Lived
+"Duran y More, Miss. Florentina",2,female,30,13.8583,C,Lived
+"Eitemiller, Mr. George Floyd",2,male,23,13,S,Lost
+"Enander, Mr. Ingvar",2,male,21,13,S,Lost
+"Fahlstrom, Mr. Arne Jonas",2,male,18,13,S,Lost
+"Faunthorpe, Mr. Harry",2,male,40,26,S,Died
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",2,female,29,26,S,Lived
+"Fillbrook, Mr. Joseph Charles",2,male,18,10.5,S,Lost
+"Fox, Mr. Stanley Hubert",2,male,36,13,S,Died
+"Frost, Mr. Anthony Wood ""Archie""",2,male,,0,S,Lost
+"Funk, Miss. Annie Clemmer",2,female,38,13,S,Lost
+"Fynney, Mr. Joseph J",2,male,35,26,S,Died
+"Gale, Mr. Harry",2,male,38,21,S,Lost
+"Gale, Mr. Shadrach",2,male,34,21,S,Lost
+"Garside, Miss. Ethel",2,female,34,13,S,Lived
+"Gaskell, Mr. Alfred",2,male,16,26,S,Lost
+"Gavey, Mr. Lawrence",2,male,26,10.5,S,Lost
+"Gilbert, Mr. William",2,male,47,10.5,S,Lost
+"Giles, Mr. Edgar",2,male,21,11.5,S,Lost
+"Giles, Mr. Frederick Edward",2,male,21,11.5,S,Lost
+"Giles, Mr. Ralph",2,male,24,13.5,S,Died
+"Gill, Mr. John William",2,male,24,13,S,Died
+"Gillespie, Mr. William Henry",2,male,34,13,S,Lost
+"Givard, Mr. Hans Kristensen",2,male,30,13,S,Died
+"Greenberg, Mr. Samuel",2,male,52,13,S,Died
+"Hale, Mr. Reginald",2,male,30,13,S,Died
+"Hamalainen, Master. Viljo",2,male,0.6667,14.5,S,Lived
+"Hamalainen, Mrs. William (Anna)",2,female,24,14.5,S,Lived
+"Harbeck, Mr. William H",2,male,44,13,S,Died
+"Harper, Miss. Annie Jessie ""Nina""",2,female,6,33,S,Lived
+"Harper, Rev. John",2,male,28,33,S,Lost
+"Harris, Mr. George",2,male,62,10.5,S,Lived
+"Harris, Mr. Walter",2,male,30,10.5,S,Lost
+"Hart, Miss. Eva Miriam",2,female,7,26.25,S,Lived
+"Hart, Mr. Benjamin",2,male,43,26.25,S,Lost
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",2,female,45,26.25,S,Lived
+"Herman, Miss. Alice",2,female,24,65,S,Lived
+"Herman, Miss. Kate",2,female,24,65,S,Lived
+"Herman, Mr. Samuel",2,male,49,65,S,Lost
+"Herman, Mrs. Samuel (Jane Laver)",2,female,48,65,S,Lived
+"Hewlett, Mrs. (Mary D Kingcome)",2,female,55,16,S,Lived
+"Hickman, Mr. Leonard Mark",2,male,24,73.5,S,Lost
+"Hickman, Mr. Lewis",2,male,32,73.5,S,Died
+"Hickman, Mr. Stanley George",2,male,21,73.5,S,Lost
+"Hiltunen, Miss. Marta",2,female,18,13,S,Lost
+"Hocking, Miss. Ellen ""Nellie""",2,female,20,23,S,Lived
+"Hocking, Mr. Richard George",2,male,23,11.5,S,Lost
+"Hocking, Mr. Samuel James Metcalfe",2,male,36,13,S,Lost
+"Hocking, Mrs. Elizabeth (Eliza Needs)",2,female,54,23,S,Lived
+"Hodges, Mr. Henry Price",2,male,50,13,S,Died
+"Hold, Mr. Stephen",2,male,44,26,S,Lost
+"Hold, Mrs. Stephen (Annie Margaret Hill)",2,female,29,26,S,Lived
+"Hood, Mr. Ambrose Jr",2,male,21,73.5,S,Lost
+"Hosono, Mr. Masabumi",2,male,42,13,S,Lived
+"Howard, Mr. Benjamin",2,male,63,26,S,Lost
+"Howard, Mrs. Benjamin (Ellen Truelove Arman)",2,female,60,26,S,Lost
+"Hunt, Mr. George Henry",2,male,33,12.275,S,Lost
+"Ilett, Miss. Bertha",2,female,17,10.5,S,Lived
+"Jacobsohn, Mr. Sidney Samuel",2,male,42,27,S,Lost
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",2,female,24,27,S,Lived
+"Jarvis, Mr. John Denzil",2,male,47,15,S,Lost
+"Jefferys, Mr. Clifford Thomas",2,male,24,31.5,S,Lost
+"Jefferys, Mr. Ernest Wilfred",2,male,22,31.5,S,Lost
+"Jenkin, Mr. Stephen Curnow",2,male,32,10.5,S,Lost
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",2,female,23,13.7917,C,Lived
+"Kantor, Mr. Sinai",2,male,34,26,S,Died
+"Kantor, Mrs. Sinai (Miriam Sternin)",2,female,24,26,S,Lived
+"Karnes, Mrs. J Frank (Claire Bennett)",2,female,22,21,S,Lost
+"Keane, Miss. Nora A",2,female,,12.35,Q,Lived
+"Keane, Mr. Daniel",2,male,35,12.35,Q,Lost
+"Kelly, Mrs. Florence ""Fannie""",2,female,45,13.5,S,Lived
+"Kirkland, Rev. Charles Leonard",2,male,57,12.35,Q,Lost
+"Knight, Mr. Robert J",2,male,,0,S,Lost
+"Kvillner, Mr. Johan Henrik Johannesson",2,male,31,10.5,S,Died
+"Lahtinen, Mrs. William (Anna Sylfven)",2,female,26,26,S,Lost
+"Lahtinen, Rev. William",2,male,30,26,S,Lost
+"Lamb, Mr. John Joseph",2,male,,10.7083,Q,Lost
+"Laroche, Miss. Louise",2,female,1,41.5792,C,Lived
+"Laroche, Miss. Simonne Marie Anne Andree",2,female,3,41.5792,C,Lived
+"Laroche, Mr. Joseph Philippe Lemercier",2,male,25,41.5792,C,Lost
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",2,female,22,41.5792,C,Lived
+"Lehmann, Miss. Bertha",2,female,17,12,C,Lived
+"Leitch, Miss. Jessie Wills",2,female,,33,S,Lived
+"Lemore, Mrs. (Amelia Milley)",2,female,34,10.5,S,Lived
+"Levy, Mr. Rene Jacques",2,male,36,12.875,C,Lost
+"Leyson, Mr. Robert William Norman",2,male,24,10.5,S,Died
+"Lingane, Mr. John",2,male,61,12.35,Q,Lost
+"Louch, Mr. Charles Alexander",2,male,50,26,S,Died
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",2,female,42,26,S,Lived
+"Mack, Mrs. (Mary)",2,female,57,10.5,S,Died
+"Malachard, Mr. Noel",2,male,,15.0458,C,Lost
+"Mallet, Master. Andre",2,male,1,37.0042,C,Lived
+"Mallet, Mr. Albert",2,male,31,37.0042,C,Lost
+"Mallet, Mrs. Albert (Antoinette Magnin)",2,female,24,37.0042,C,Lived
+"Mangiavacchi, Mr. Serafino Emilio",2,male,,15.5792,C,Lost
+"Matthews, Mr. William John",2,male,30,13,S,Lost
+"Maybery, Mr. Frank Hubert",2,male,40,16,S,Lost
+"McCrae, Mr. Arthur Gordon",2,male,32,13.5,S,Died
+"McCrie, Mr. James Matthew",2,male,30,13,S,Lost
+"McKane, Mr. Peter David",2,male,46,26,S,Lost
+"Mellinger, Miss. Madeleine Violet",2,female,13,19.5,S,Lived
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",2,female,41,19.5,S,Lived
+"Mellors, Mr. William John",2,male,19,10.5,S,Lived
+"Meyer, Mr. August",2,male,39,13,S,Lost
+"Milling, Mr. Jacob Christian",2,male,48,13,S,Died
+"Mitchell, Mr. Henry Michael",2,male,70,10.5,S,Lost
+"Montvila, Rev. Juozas",2,male,27,13,S,Lost
+"Moraweck, Dr. Ernest",2,male,54,14,S,Lost
+"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",2,male,39,26,S,Lost
+"Mudd, Mr. Thomas Charles",2,male,16,10.5,S,Lost
+"Myles, Mr. Thomas Francis",2,male,62,9.6875,Q,Lost
+"Nasser, Mr. Nicholas",2,male,32.5,30.0708,C,Died
+"Nasser, Mrs. Nicholas (Adele Achem)",2,female,14,30.0708,C,Lived
+"Navratil, Master. Edmond Roger",2,male,2,26,S,Lived
+"Navratil, Master. Michel M",2,male,3,26,S,Lived
+"Navratil, Mr. Michel (""Louis M Hoffman"")",2,male,36.5,26,S,Died
+"Nesson, Mr. Israel",2,male,26,13,S,Lost
+"Nicholls, Mr. Joseph Charles",2,male,19,36.75,S,Died
+"Norman, Mr. Robert Douglas",2,male,28,13.5,S,Died
+"Nourney, Mr. Alfred (""Baron von Drachstedt"")",2,male,20,13.8625,C,Lived
+"Nye, Mrs. (Elizabeth Ramell)",2,female,29,10.5,S,Lived
+"Otter, Mr. Richard",2,male,39,13,S,Lost
+"Oxenham, Mr. Percy Thomas",2,male,22,10.5,S,Lived
+"Padro y Manent, Mr. Julian",2,male,,13.8625,C,Lived
+"Pain, Dr. Alfred",2,male,23,10.5,S,Lost
+"Pallas y Castello, Mr. Emilio",2,male,29,13.8583,C,Lived
+"Parker, Mr. Clifford Richard",2,male,28,10.5,S,Lost
+"Parkes, Mr. Francis ""Frank""",2,male,,0,S,Lost
+"Parrish, Mrs. (Lutie Davis)",2,female,50,26,S,Lived
+"Pengelly, Mr. Frederick William",2,male,19,10.5,S,Lost
+"Pernot, Mr. Rene",2,male,,15.05,C,Lost
+"Peruschitz, Rev. Joseph Maria",2,male,41,13,S,Lost
+"Phillips, Miss. Alice Frances Louisa",2,female,21,21,S,Lived
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",2,female,19,26,S,Lived
+"Phillips, Mr. Escott Robert",2,male,43,21,S,Lost
+"Pinsky, Mrs. (Rosa)",2,female,32,13,S,Lived
+"Ponesell, Mr. Martin",2,male,34,13,S,Lost
+"Portaluppi, Mr. Emilio Ilario Giuseppe",2,male,30,12.7375,C,Lived
+"Pulbaum, Mr. Franz",2,male,27,15.0333,C,Lost
+"Quick, Miss. Phyllis May",2,female,2,26,S,Lived
+"Quick, Miss. Winifred Vera",2,female,8,26,S,Lived
+"Quick, Mrs. Frederick Charles (Jane Richards)",2,female,33,26,S,Lived
+"Reeves, Mr. David",2,male,36,10.5,S,Lost
+"Renouf, Mr. Peter Henry",2,male,34,21,S,Lost
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",2,female,30,21,S,Lived
+"Reynaldo, Ms. Encarnacion",2,female,28,13,S,Lived
+"Richard, Mr. Emile",2,male,23,15.0458,C,Lost
+"Richards, Master. George Sibley",2,male,0.8333,18.75,S,Lived
+"Richards, Master. William Rowe",2,male,3,18.75,S,Lived
+"Richards, Mrs. Sidney (Emily Hocking)",2,female,24,18.75,S,Lived
+"Ridsdale, Miss. Lucy",2,female,50,10.5,S,Lived
+"Rogers, Mr. Reginald Harry",2,male,19,10.5,S,Lost
+"Rugg, Miss. Emily",2,female,21,10.5,S,Lived
+"Schmidt, Mr. August",2,male,26,13,S,Lost
+"Sedgwick, Mr. Charles Frederick Waddington",2,male,25,13,S,Lost
+"Sharp, Mr. Percival James R",2,male,27,26,S,Lost
+"Shelley, Mrs. William (Imanita Parrish Hall)",2,female,25,26,S,Lived
+"Silven, Miss. Lyyli Karoliina",2,female,18,13,S,Lived
+"Sincock, Miss. Maude",2,female,20,36.75,S,Lived
+"Sinkkonen, Miss. Anna",2,female,30,13,S,Lived
+"Sjostedt, Mr. Ernst Adolf",2,male,59,13.5,S,Lost
+"Slayter, Miss. Hilda Mary",2,female,30,12.35,Q,Lived
+"Slemen, Mr. Richard James",2,male,35,10.5,S,Lost
+"Smith, Miss. Marion Elsie",2,female,40,13,S,Lived
+"Sobey, Mr. Samuel James Hayden",2,male,25,13,S,Lost
+"Stanton, Mr. Samuel Ward",2,male,41,15.0458,C,Lost
+"Stokes, Mr. Philip Joseph",2,male,25,10.5,S,Died
+"Swane, Mr. George",2,male,18.5,13,S,Died
+"Sweet, Mr. George Frederick",2,male,14,65,S,Lost
+"Toomey, Miss. Ellen",2,female,50,10.5,S,Lived
+"Troupiansky, Mr. Moses Aaron",2,male,23,13,S,Lost
+"Trout, Mrs. William H (Jessie L)",2,female,28,12.65,S,Lived
+"Troutt, Miss. Edwina Celia ""Winnie""",2,female,27,10.5,S,Lived
+"Turpin, Mr. William John Robert",2,male,29,21,S,Lost
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",2,female,27,21,S,Lost
+"Veal, Mr. James",2,male,40,13,S,Lost
+"Walcroft, Miss. Nellie",2,female,31,21,S,Lived
+"Ware, Mr. John James",2,male,30,21,S,Lost
+"Ware, Mr. William Jeffery",2,male,23,10.5,S,Lost
+"Ware, Mrs. John James (Florence Louise Long)",2,female,31,21,S,Lived
+"Watson, Mr. Ennis Hastings",2,male,,0,S,Lost
+"Watt, Miss. Bertha J",2,female,12,15.75,S,Lived
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",2,female,40,15.75,S,Lived
+"Webber, Miss. Susan",2,female,32.5,13,S,Lived
+"Weisz, Mr. Leopold",2,male,27,26,S,Died
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",2,female,29,26,S,Lived
+"Wells, Master. Ralph Lester",2,male,2,23,S,Lived
+"Wells, Miss. Joan",2,female,4,23,S,Lived
+"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",2,female,29,23,S,Lived
+"West, Miss. Barbara J",2,female,0.9167,27.75,S,Lived
+"West, Miss. Constance Mirium",2,female,5,27.75,S,Lived
+"West, Mr. Edwy Arthur",2,male,36,27.75,S,Lost
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",2,female,33,27.75,S,Lived
+"Wheadon, Mr. Edward H",2,male,66,10.5,S,Lost
+"Wheeler, Mr. Edwin ""Frederick""",2,male,,12.875,S,Lost
+"Wilhelms, Mr. Charles",2,male,31,13,S,Lived
+"Williams, Mr. Charles Eugene",2,male,,13,S,Lived
+"Wright, Miss. Marion",2,female,26,13.5,S,Lived
+"Yrois, Miss. Henriette (""Mrs Harbeck"")",2,female,24,13,S,Lost
+"Abbing, Mr. Anthony",3,male,42,7.55,S,Lost
+"Abbott, Master. Eugene Joseph",3,male,13,20.25,S,Lost
+"Abbott, Mr. Rossmore Edward",3,male,16,20.25,S,Died
+"Abbott, Mrs. Stanton (Rosa Hunt)",3,female,35,20.25,S,Lived
+"Abelseth, Miss. Karen Marie",3,female,16,7.65,S,Lived
+"Abelseth, Mr. Olaus Jorgensen",3,male,25,7.65,S,Lived
+"Abrahamsson, Mr. Abraham August Johannes",3,male,20,7.925,S,Lived
+"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",3,female,18,7.2292,C,Lived
+"Adahl, Mr. Mauritz Nils Martin",3,male,30,7.25,S,Died
+"Adams, Mr. John",3,male,26,8.05,S,Died
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",3,female,40,9.475,S,Lost
+"Aks, Master. Philip Frank",3,male,0.8333,9.35,S,Lived
+"Aks, Mrs. Sam (Leah Rosen)",3,female,18,9.35,S,Lived
+"Albimona, Mr. Nassef Cassem",3,male,26,18.7875,C,Lived
+"Alexander, Mr. William",3,male,26,7.8875,S,Lost
+"Alhomaki, Mr. Ilmari Rudolf",3,male,20,7.925,S,Lost
+"Ali, Mr. Ahmed",3,male,24,7.05,S,Lost
+"Ali, Mr. William",3,male,25,7.05,S,Died
+"Allen, Mr. William Henry",3,male,35,8.05,S,Lost
+"Allum, Mr. Owen George",3,male,18,8.3,S,Died
+"Andersen, Mr. Albert Karvin",3,male,32,22.525,S,Died
+"Andersen-Jensen, Miss. Carla Christine Nielsine",3,female,19,7.8542,S,Lived
+"Andersson, Master. Sigvard Harald Elias",3,male,4,31.275,S,Lost
+"Andersson, Miss. Ebba Iris Alfrida",3,female,6,31.275,S,Lost
+"Andersson, Miss. Ellis Anna Maria",3,female,2,31.275,S,Lost
+"Andersson, Miss. Erna Alexandra",3,female,17,7.925,S,Lived
+"Andersson, Miss. Ida Augusta Margareta",3,female,38,7.775,S,Lost
+"Andersson, Miss. Ingeborg Constanzia",3,female,9,31.275,S,Lost
+"Andersson, Miss. Sigrid Elisabeth",3,female,11,31.275,S,Lost
+"Andersson, Mr. Anders Johan",3,male,39,31.275,S,Lost
+"Andersson, Mr. August Edvard (""Wennerstrom"")",3,male,27,7.7958,S,Lived
+"Andersson, Mr. Johan Samuel",3,male,26,7.775,S,Lost
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",3,female,39,31.275,S,Lost
+"Andreasson, Mr. Paul Edvin",3,male,20,7.8542,S,Lost
+"Angheloff, Mr. Minko",3,male,26,7.8958,S,Lost
+"Arnold-Franchi, Mr. Josef",3,male,25,17.8,S,Lost
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",3,female,18,17.8,S,Lost
+"Aronsson, Mr. Ernst Axel Algot",3,male,24,7.775,S,Lost
+"Asim, Mr. Adola",3,male,35,7.05,S,Lost
+"Asplund, Master. Carl Edgar",3,male,5,31.3875,S,Lost
+"Asplund, Master. Clarence Gustaf Hugo",3,male,9,31.3875,S,Lost
+"Asplund, Master. Edvin Rojj Felix",3,male,3,31.3875,S,Lived
+"Asplund, Master. Filip Oscar",3,male,13,31.3875,S,Lost
+"Asplund, Miss. Lillian Gertrud",3,female,5,31.3875,S,Lived
+"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",3,male,40,31.3875,S,Died
+"Asplund, Mr. Johan Charles",3,male,23,7.7958,S,Lived
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",3,female,38,31.3875,S,Lived
+"Assaf Khalil, Mrs. Mariana (""Miriam"")",3,female,45,7.225,C,Lived
+"Assaf, Mr. Gerios",3,male,21,7.225,C,Lost
+"Assam, Mr. Ali",3,male,23,7.05,S,Lost
+"Attalah, Miss. Malake",3,female,17,14.4583,C,Lost
+"Attalah, Mr. Sleiman",3,male,30,7.225,C,Lost
+"Augustsson, Mr. Albert",3,male,23,7.8542,S,Lost
+"Ayoub, Miss. Banoura",3,female,13,7.2292,C,Lived
+"Baccos, Mr. Raffull",3,male,20,7.225,C,Lost
+"Backstrom, Mr. Karl Alfred",3,male,32,15.85,S,Lost
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",3,female,33,15.85,S,Lived
+"Baclini, Miss. Eugenie",3,female,0.75,19.2583,C,Lived
+"Baclini, Miss. Helene Barbara",3,female,0.75,19.2583,C,Lived
+"Baclini, Miss. Marie Catherine",3,female,5,19.2583,C,Lived
+"Baclini, Mrs. Solomon (Latifa Qurban)",3,female,24,19.2583,C,Lived
+"Badman, Miss. Emily Louisa",3,female,18,8.05,S,Lived
+"Badt, Mr. Mohamed",3,male,40,7.225,C,Lost
+"Balkic, Mr. Cerin",3,male,26,7.8958,S,Lost
+"Barah, Mr. Hanna Assi",3,male,20,7.2292,C,Lived
+"Barbara, Miss. Saiide",3,female,18,14.4542,C,Lost
+"Barbara, Mrs. (Catherine David)",3,female,45,14.4542,C,Lost
+"Barry, Miss. Julia",3,female,27,7.8792,Q,Lost
+"Barton, Mr. David John",3,male,22,8.05,S,Lost
+"Beavan, Mr. William Thomas",3,male,19,8.05,S,Lost
+"Bengtsson, Mr. John Viktor",3,male,26,7.775,S,Lost
+"Berglund, Mr. Karl Ivar Sven",3,male,22,9.35,S,Lost
+"Betros, Master. Seman",3,male,,7.2292,C,Lost
+"Betros, Mr. Tannous",3,male,20,4.0125,C,Lost
+"Bing, Mr. Lee",3,male,32,56.4958,S,Lived
+"Birkeland, Mr. Hans Martin Monsen",3,male,21,7.775,S,Lost
+"Bjorklund, Mr. Ernst Herbert",3,male,18,7.75,S,Lost
+"Bostandyeff, Mr. Guentcho",3,male,26,7.8958,S,Lost
+"Boulos, Master. Akar",3,male,6,15.2458,C,Lost
+"Boulos, Miss. Nourelain",3,female,9,15.2458,C,Lost
+"Boulos, Mr. Hanna",3,male,,7.225,C,Lost
+"Boulos, Mrs. Joseph (Sultana)",3,female,,15.2458,C,Lost
+"Bourke, Miss. Mary",3,female,,7.75,Q,Lost
+"Bourke, Mr. John",3,male,40,15.5,Q,Lost
+"Bourke, Mrs. John (Catherine)",3,female,32,15.5,Q,Lost
+"Bowen, Mr. David John ""Dai""",3,male,21,16.1,S,Lost
+"Bradley, Miss. Bridget Delia",3,female,22,7.725,Q,Lived
+"Braf, Miss. Elin Ester Maria",3,female,20,7.8542,S,Lost
+"Braund, Mr. Lewis Richard",3,male,29,7.0458,S,Lost
+"Braund, Mr. Owen Harris",3,male,22,7.25,S,Lost
+"Brobeck, Mr. Karl Rudolf",3,male,22,7.7958,S,Lost
+"Brocklebank, Mr. William Alfred",3,male,35,8.05,S,Lost
+"Buckley, Miss. Katherine",3,female,18.5,7.2833,Q,Died
+"Buckley, Mr. Daniel",3,male,21,7.8208,Q,Lived
+"Burke, Mr. Jeremiah",3,male,19,6.75,Q,Lost
+"Burns, Miss. Mary Delia",3,female,18,7.8792,Q,Lost
+"Cacic, Miss. Manda",3,female,21,8.6625,S,Lost
+"Cacic, Miss. Marija",3,female,30,8.6625,S,Lost
+"Cacic, Mr. Jego Grga",3,male,18,8.6625,S,Lost
+"Cacic, Mr. Luka",3,male,38,8.6625,S,Lost
+"Calic, Mr. Jovo",3,male,17,8.6625,S,Lost
+"Calic, Mr. Petar",3,male,17,8.6625,S,Lost
+"Canavan, Miss. Mary",3,female,21,7.75,Q,Lost
+"Canavan, Mr. Patrick",3,male,21,7.75,Q,Lost
+"Cann, Mr. Ernest Charles",3,male,21,8.05,S,Lost
+"Caram, Mr. Joseph",3,male,,14.4583,C,Lost
+"Caram, Mrs. Joseph (Maria Elias)",3,female,,14.4583,C,Lost
+"Carlsson, Mr. August Sigfrid",3,male,28,7.7958,S,Lost
+"Carlsson, Mr. Carl Robert",3,male,24,7.8542,S,Lost
+"Carr, Miss. Helen ""Ellen""",3,female,16,7.75,Q,Lived
+"Carr, Miss. Jeannie",3,female,37,7.75,Q,Lost
+"Carver, Mr. Alfred John",3,male,28,7.25,S,Lost
+"Celotti, Mr. Francesco",3,male,24,8.05,S,Lost
+"Charters, Mr. David",3,male,21,7.7333,Q,Lost
+"Chip, Mr. Chang",3,male,32,56.4958,S,Lived
+"Christmann, Mr. Emil",3,male,29,8.05,S,Lost
+"Chronopoulos, Mr. Apostolos",3,male,26,14.4542,C,Lost
+"Chronopoulos, Mr. Demetrios",3,male,18,14.4542,C,Lost
+"Coelho, Mr. Domingos Fernandeo",3,male,20,7.05,S,Lost
+"Cohen, Mr. Gurshon ""Gus""",3,male,18,8.05,S,Lived
+"Colbert, Mr. Patrick",3,male,24,7.25,Q,Lost
+"Coleff, Mr. Peju",3,male,36,7.4958,S,Lost
+"Coleff, Mr. Satio",3,male,24,7.4958,S,Lost
+"Conlon, Mr. Thomas Henry",3,male,31,7.7333,Q,Lost
+"Connaghton, Mr. Michael",3,male,31,7.75,Q,Lost
+"Connolly, Miss. Kate",3,female,22,7.75,Q,Lived
+"Connolly, Miss. Kate",3,female,30,7.6292,Q,Lost
+"Connors, Mr. Patrick",3,male,70.5,7.75,Q,Died
+"Cook, Mr. Jacob",3,male,43,8.05,S,Lost
+"Cor, Mr. Bartol",3,male,35,7.8958,S,Lost
+"Cor, Mr. Ivan",3,male,27,7.8958,S,Lost
+"Cor, Mr. Liudevit",3,male,19,7.8958,S,Lost
+"Corn, Mr. Harry",3,male,30,8.05,S,Lost
+"Coutts, Master. Eden Leslie ""Neville""",3,male,9,15.9,S,Lived
+"Coutts, Master. William Loch ""William""",3,male,3,15.9,S,Lived
+"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",3,female,36,15.9,S,Lived
+"Coxon, Mr. Daniel",3,male,59,7.25,S,Lost
+"Crease, Mr. Ernest James",3,male,19,8.1583,S,Lost
+"Cribb, Miss. Laura Alice",3,female,17,16.1,S,Lived
+"Cribb, Mr. John Hatfield",3,male,44,16.1,S,Lost
+"Culumovic, Mr. Jeso",3,male,17,8.6625,S,Lost
+"Daher, Mr. Shedid",3,male,22.5,7.225,C,Died
+"Dahl, Mr. Karl Edwart",3,male,45,8.05,S,Lived
+"Dahlberg, Miss. Gerda Ulrika",3,female,22,10.5167,S,Lost
+"Dakic, Mr. Branko",3,male,19,10.1708,S,Lost
+"Daly, Miss. Margaret Marcella ""Maggie""",3,female,30,6.95,Q,Lived
+"Daly, Mr. Eugene Patrick",3,male,29,7.75,Q,Lived
+"Danbom, Master. Gilbert Sigvard Emanuel",3,male,0.3333,14.4,S,Lost
+"Danbom, Mr. Ernst Gilbert",3,male,34,14.4,S,Died
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",3,female,28,14.4,S,Lost
+"Danoff, Mr. Yoto",3,male,27,7.8958,S,Lost
+"Dantcheff, Mr. Ristiu",3,male,25,7.8958,S,Lost
+"Davies, Mr. Alfred J",3,male,24,24.15,S,Lost
+"Davies, Mr. Evan",3,male,22,8.05,S,Lost
+"Davies, Mr. John Samuel",3,male,21,24.15,S,Lost
+"Davies, Mr. Joseph",3,male,17,8.05,S,Lost
+"Davison, Mr. Thomas Henry",3,male,,16.1,S,Lost
+"Davison, Mrs. Thomas Henry (Mary E Finck)",3,female,,16.1,S,Lived
+"de Messemaeker, Mr. Guillaume Joseph",3,male,36.5,17.4,S,Lived
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",3,female,36,17.4,S,Lived
+"de Mulder, Mr. Theodore",3,male,30,9.5,S,Lived
+"de Pelsmaeker, Mr. Alfons",3,male,16,9.5,S,Lost
+"Dean, Master. Bertram Vere",3,male,1,20.575,S,Lived
+"Dean, Miss. Elizabeth Gladys ""Millvina""",3,female,0.1667,20.575,S,Lived
+"Dean, Mr. Bertram Frank",3,male,26,20.575,S,Lost
+"Dean, Mrs. Bertram (Eva Georgetta Light)",3,female,33,20.575,S,Lived
+"Delalic, Mr. Redjo",3,male,25,7.8958,S,Lost
+"Demetri, Mr. Marinko",3,male,,7.8958,S,Lost
+"Denkoff, Mr. Mitto",3,male,,7.8958,S,Lost
+"Dennis, Mr. Samuel",3,male,22,7.25,S,Lost
+"Dennis, Mr. William",3,male,36,7.25,S,Lost
+"Devaney, Miss. Margaret Delia",3,female,19,7.8792,Q,Lived
+"Dika, Mr. Mirko",3,male,17,7.8958,S,Lost
+"Dimic, Mr. Jovan",3,male,42,8.6625,S,Lost
+"Dintcheff, Mr. Valtcho",3,male,43,7.8958,S,Lost
+"Doharr, Mr. Tannous",3,male,,7.2292,C,Lost
+"Dooley, Mr. Patrick",3,male,32,7.75,Q,Lost
+"Dorking, Mr. Edward Arthur",3,male,19,8.05,S,Lived
+"Dowdell, Miss. Elizabeth",3,female,30,12.475,S,Lived
+"Doyle, Miss. Elizabeth",3,female,24,7.75,Q,Lost
+"Drapkin, Miss. Jennie",3,female,23,8.05,S,Lived
+"Drazenoic, Mr. Jozef",3,male,33,7.8958,C,Died
+"Duane, Mr. Frank",3,male,65,7.75,Q,Lost
+"Duquemin, Mr. Joseph",3,male,24,7.55,S,Lived
+"Dyker, Mr. Adolf Fredrik",3,male,23,13.9,S,Lost
+"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",3,female,22,13.9,S,Lived
+"Edvardsson, Mr. Gustaf Hjalmar",3,male,18,7.775,S,Lost
+"Eklund, Mr. Hans Linus",3,male,16,7.775,S,Lost
+"Ekstrom, Mr. Johan",3,male,45,6.975,S,Lost
+"Elias, Mr. Dibo",3,male,,7.225,C,Lost
+"Elias, Mr. Joseph",3,male,39,7.2292,C,Lost
+"Elias, Mr. Joseph Jr",3,male,17,7.2292,C,Lost
+"Elias, Mr. Tannous",3,male,15,7.2292,C,Lost
+"Elsbury, Mr. William James",3,male,47,7.25,S,Lost
+"Emanuel, Miss. Virginia Ethel",3,female,5,12.475,S,Lived
+"Emir, Mr. Farred Chehab",3,male,,7.225,C,Lost
+"Everett, Mr. Thomas James",3,male,40.5,15.1,S,Died
+"Farrell, Mr. James",3,male,40.5,7.75,Q,Died
+"Finoli, Mr. Luigi",3,male,,7.05,S,Lived
+"Fischer, Mr. Eberhard Thelander",3,male,18,7.7958,S,Lost
+"Fleming, Miss. Honora",3,female,,7.75,Q,Lost
+"Flynn, Mr. James",3,male,,7.75,Q,Lost
+"Flynn, Mr. John",3,male,,6.95,Q,Lost
+"Foley, Mr. Joseph",3,male,26,7.8792,Q,Lost
+"Foley, Mr. William",3,male,,7.75,Q,Lost
+"Foo, Mr. Choong",3,male,,56.4958,S,Lived
+"Ford, Miss. Doolina Margaret ""Daisy""",3,female,21,34.375,S,Lost
+"Ford, Miss. Robina Maggie ""Ruby""",3,female,9,34.375,S,Lost
+"Ford, Mr. Arthur",3,male,,8.05,S,Lost
+"Ford, Mr. Edward Watson",3,male,18,34.375,S,Lost
+"Ford, Mr. William Neal",3,male,16,34.375,S,Lost
+"Ford, Mrs. Edward (Margaret Ann Watson)",3,female,48,34.375,S,Lost
+"Fox, Mr. Patrick",3,male,,7.75,Q,Lost
+"Franklin, Mr. Charles (Charles Fardon)",3,male,,7.25,S,Lost
+"Gallagher, Mr. Martin",3,male,25,7.7417,Q,Lost
+"Garfirth, Mr. John",3,male,,14.5,S,Lost
+"Gheorgheff, Mr. Stanio",3,male,,7.8958,C,Lost
+"Gilinski, Mr. Eliezer",3,male,22,8.05,S,Died
+"Gilnagh, Miss. Katherine ""Katie""",3,female,16,7.7333,Q,Lived
+"Glynn, Miss. Mary Agatha",3,female,,7.75,Q,Lived
+"Goldsmith, Master. Frank John William ""Frankie""",3,male,9,20.525,S,Lived
+"Goldsmith, Mr. Frank John",3,male,33,20.525,S,Lost
+"Goldsmith, Mr. Nathan",3,male,41,7.85,S,Lost
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",3,female,31,20.525,S,Lived
+"Goncalves, Mr. Manuel Estanslas",3,male,38,7.05,S,Lost
+"Goodwin, Master. Harold Victor",3,male,9,46.9,S,Lost
+"Goodwin, Master. Sidney Leonard",3,male,1,46.9,S,Lost
+"Goodwin, Master. William Frederick",3,male,11,46.9,S,Lost
+"Goodwin, Miss. Jessie Allis",3,female,10,46.9,S,Lost
+"Goodwin, Miss. Lillian Amy",3,female,16,46.9,S,Lost
+"Goodwin, Mr. Charles Edward",3,male,14,46.9,S,Lost
+"Goodwin, Mr. Charles Frederick",3,male,40,46.9,S,Lost
+"Goodwin, Mrs. Frederick (Augusta Tyler)",3,female,43,46.9,S,Lost
+"Green, Mr. George Henry",3,male,51,8.05,S,Lost
+"Gronnestad, Mr. Daniel Danielsen",3,male,32,8.3625,S,Lost
+"Guest, Mr. Robert",3,male,,8.05,S,Lost
+"Gustafsson, Mr. Alfred Ossian",3,male,20,9.8458,S,Lost
+"Gustafsson, Mr. Anders Vilhelm",3,male,37,7.925,S,Died
+"Gustafsson, Mr. Johan Birger",3,male,28,7.925,S,Lost
+"Gustafsson, Mr. Karl Gideon",3,male,19,7.775,S,Lost
+"Haas, Miss. Aloisia",3,female,24,8.85,S,Lost
+"Hagardon, Miss. Kate",3,female,17,7.7333,Q,Lost
+"Hagland, Mr. Ingvald Olai Olsen",3,male,,19.9667,S,Lost
+"Hagland, Mr. Konrad Mathias Reiersen",3,male,,19.9667,S,Lost
+"Hakkarainen, Mr. Pekka Pietari",3,male,28,15.85,S,Lost
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",3,female,24,15.85,S,Lived
+"Hampe, Mr. Leon",3,male,20,9.5,S,Lost
+"Hanna, Mr. Mansour",3,male,23.5,7.2292,C,Died
+"Hansen, Mr. Claus Peter",3,male,41,14.1083,S,Lost
+"Hansen, Mr. Henrik Juul",3,male,26,7.8542,S,Lost
+"Hansen, Mr. Henry Damsgaard",3,male,21,7.8542,S,Died
+"Hansen, Mrs. Claus Peter (Jennie L Howard)",3,female,45,14.1083,S,Lived
+"Harknett, Miss. Alice Phoebe",3,female,,7.55,S,Lost
+"Harmer, Mr. Abraham (David Lishin)",3,male,25,7.25,S,Lost
+"Hart, Mr. Henry",3,male,,6.8583,Q,Lost
+"Hassan, Mr. Houssein G N",3,male,11,18.7875,C,Lost
+"Healy, Miss. Hanora ""Nora""",3,female,,7.75,Q,Lived
+"Hedman, Mr. Oskar Arvid",3,male,27,6.975,S,Lived
+"Hee, Mr. Ling",3,male,,56.4958,S,Lived
+"Hegarty, Miss. Hanora ""Nora""",3,female,18,6.75,Q,Lost
+"Heikkinen, Miss. Laina",3,female,26,7.925,S,Lived
+"Heininen, Miss. Wendla Maria",3,female,23,7.925,S,Lost
+"Hellstrom, Miss. Hilda Maria",3,female,22,8.9625,S,Lived
+"Hendekovic, Mr. Ignjac",3,male,28,7.8958,S,Died
+"Henriksson, Miss. Jenny Lovisa",3,female,28,7.775,S,Lost
+"Henry, Miss. Delia",3,female,,7.75,Q,Lost
+"Hirvonen, Miss. Hildur E",3,female,2,12.2875,S,Lived
+"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",3,female,22,12.2875,S,Lived
+"Holm, Mr. John Fredrik Alexander",3,male,43,6.45,S,Lost
+"Holthen, Mr. Johan Martin",3,male,28,22.525,S,Lost
+"Honkanen, Miss. Eliina",3,female,27,7.925,S,Lived
+"Horgan, Mr. John",3,male,,7.75,Q,Lost
+"Howard, Miss. May Elizabeth",3,female,,8.05,S,Lived
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",3,male,42,7.65,S,Died
+"Hyman, Mr. Abraham",3,male,,7.8875,S,Lived
+"Ibrahim Shawah, Mr. Yousseff",3,male,30,7.2292,C,Lost
+"Ilieff, Mr. Ylio",3,male,,7.8958,S,Lost
+"Ilmakangas, Miss. Ida Livija",3,female,27,7.925,S,Lost
+"Ilmakangas, Miss. Pieta Sofia",3,female,25,7.925,S,Lost
+"Ivanoff, Mr. Kanio",3,male,,7.8958,S,Lost
+"Jalsevac, Mr. Ivan",3,male,29,7.8958,C,Lived
+"Jansson, Mr. Carl Olof",3,male,21,7.7958,S,Lived
+"Jardin, Mr. Jose Neto",3,male,,7.05,S,Lost
+"Jensen, Mr. Hans Peder",3,male,20,7.8542,S,Lost
+"Jensen, Mr. Niels Peder",3,male,48,7.8542,S,Lost
+"Jensen, Mr. Svend Lauritz",3,male,17,7.0542,S,Lost
+"Jermyn, Miss. Annie",3,female,,7.75,Q,Lived
+"Johannesen-Bratthammer, Mr. Bernt",3,male,,8.1125,S,Lived
+"Johanson, Mr. Jakob Alfred",3,male,34,6.4958,S,Died
+"Johansson Palmquist, Mr. Oskar Leander",3,male,26,7.775,S,Lived
+"Johansson, Mr. Erik",3,male,22,7.7958,S,Died
+"Johansson, Mr. Gustaf Joel",3,male,33,8.6542,S,Died
+"Johansson, Mr. Karl Johan",3,male,31,7.775,S,Lost
+"Johansson, Mr. Nils",3,male,29,7.8542,S,Lost
+"Johnson, Master. Harold Theodor",3,male,4,11.1333,S,Lived
+"Johnson, Miss. Eleanor Ileen",3,female,1,11.1333,S,Lived
+"Johnson, Mr. Alfred",3,male,49,0,S,Lost
+"Johnson, Mr. Malkolm Joackim",3,male,33,7.775,S,Died
+"Johnson, Mr. William Cahoone Jr",3,male,19,0,S,Lost
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",3,female,27,11.1333,S,Lived
+"Johnston, Master. William Arthur ""Willie""",3,male,,23.45,S,Lost
+"Johnston, Miss. Catherine Helen ""Carrie""",3,female,,23.45,S,Lost
+"Johnston, Mr. Andrew G",3,male,,23.45,S,Lost
+"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",3,female,,23.45,S,Lost
+"Jonkoff, Mr. Lalio",3,male,23,7.8958,S,Lost
+"Jonsson, Mr. Carl",3,male,32,7.8542,S,Lived
+"Jonsson, Mr. Nils Hilding",3,male,27,7.8542,S,Lost
+"Jussila, Miss. Katriina",3,female,20,9.825,S,Lost
+"Jussila, Miss. Mari Aina",3,female,21,9.825,S,Lost
+"Jussila, Mr. Eiriik",3,male,32,7.925,S,Lived
+"Kallio, Mr. Nikolai Erland",3,male,17,7.125,S,Lost
+"Kalvik, Mr. Johannes Halvorsen",3,male,21,8.4333,S,Lost
+"Karaic, Mr. Milan",3,male,30,7.8958,S,Lost
+"Karlsson, Mr. Einar Gervasius",3,male,21,7.7958,S,Lived
+"Karlsson, Mr. Julius Konrad Eugen",3,male,33,7.8542,S,Lost
+"Karlsson, Mr. Nils August",3,male,22,7.5208,S,Lost
+"Karun, Miss. Manca",3,female,4,13.4167,C,Lived
+"Karun, Mr. Franz",3,male,39,13.4167,C,Lived
+"Kassem, Mr. Fared",3,male,,7.2292,C,Lost
+"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",3,male,18.5,7.2292,C,Died
+"Keane, Mr. Andrew ""Andy""",3,male,,7.75,Q,Lost
+"Keefe, Mr. Arthur",3,male,,7.25,S,Lost
+"Kelly, Miss. Anna Katherine ""Annie Kate""",3,female,,7.75,Q,Lived
+"Kelly, Miss. Mary",3,female,,7.75,Q,Lived
+"Kelly, Mr. James",3,male,34.5,7.8292,Q,Died
+"Kelly, Mr. James",3,male,44,8.05,S,Lost
+"Kennedy, Mr. John",3,male,,7.75,Q,Lived
+"Khalil, Mr. Betros",3,male,,14.4542,C,Lost
+"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",3,female,,14.4542,C,Lost
+"Kiernan, Mr. John",3,male,,7.75,Q,Lost
+"Kiernan, Mr. Philip",3,male,,7.75,Q,Lost
+"Kilgannon, Mr. Thomas J",3,male,,7.7375,Q,Lost
+"Kink, Miss. Maria",3,female,22,8.6625,S,Lost
+"Kink, Mr. Vincenz",3,male,26,8.6625,S,Lost
+"Kink-Heilmann, Miss. Luise Gretchen",3,female,4,22.025,S,Lived
+"Kink-Heilmann, Mr. Anton",3,male,29,22.025,S,Lived
+"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",3,female,26,22.025,S,Lived
+"Klasen, Miss. Gertrud Emilia",3,female,1,12.1833,S,Lost
+"Klasen, Mr. Klas Albin",3,male,18,7.8542,S,Lost
+"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",3,female,36,12.1833,S,Lost
+"Kraeff, Mr. Theodor",3,male,,7.8958,C,Lost
+"Krekorian, Mr. Neshan",3,male,25,7.2292,C,Lived
+"Lahoud, Mr. Sarkis",3,male,,7.225,C,Lost
+"Laitinen, Miss. Kristina Sofia",3,female,37,9.5875,S,Lost
+"Laleff, Mr. Kristo",3,male,,7.8958,S,Lost
+"Lam, Mr. Ali",3,male,,56.4958,S,Lived
+"Lam, Mr. Len",3,male,,56.4958,S,Lost
+"Landergren, Miss. Aurora Adelia",3,female,22,7.25,S,Lived
+"Lane, Mr. Patrick",3,male,,7.75,Q,Lost
+"Lang, Mr. Fang",3,male,26,56.4958,S,Lived
+"Larsson, Mr. August Viktor",3,male,29,9.4833,S,Lost
+"Larsson, Mr. Bengt Edvin",3,male,29,7.775,S,Lost
+"Larsson-Rondberg, Mr. Edvard A",3,male,22,7.775,S,Lost
+"Leeni, Mr. Fahim (""Philip Zenni"")",3,male,22,7.225,C,Lived
+"Lefebre, Master. Henry Forbes",3,male,,25.4667,S,Lost
+"Lefebre, Miss. Ida",3,female,,25.4667,S,Lost
+"Lefebre, Miss. Jeannie",3,female,,25.4667,S,Lost
+"Lefebre, Miss. Mathilde",3,female,,25.4667,S,Lost
+"Lefebre, Mrs. Frank (Frances)",3,female,,25.4667,S,Lost
+"Leinonen, Mr. Antti Gustaf",3,male,32,7.925,S,Lost
+"Lemberopolous, Mr. Peter L",3,male,34.5,6.4375,C,Died
+"Lennon, Miss. Mary",3,female,,15.5,Q,Lost
+"Lennon, Mr. Denis",3,male,,15.5,Q,Lost
+"Leonard, Mr. Lionel",3,male,36,0,S,Lost
+"Lester, Mr. James",3,male,39,24.15,S,Lost
+"Lievens, Mr. Rene Aime",3,male,24,9.5,S,Lost
+"Lindahl, Miss. Agda Thorilda Viktoria",3,female,25,7.775,S,Lost
+"Lindblom, Miss. Augusta Charlotta",3,female,45,7.75,S,Lost
+"Lindell, Mr. Edvard Bengtsson",3,male,36,15.55,S,Lost
+"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",3,female,30,15.55,S,Lost
+"Lindqvist, Mr. Eino William",3,male,20,7.925,S,Lived
+"Linehan, Mr. Michael",3,male,,7.8792,Q,Lost
+"Ling, Mr. Lee",3,male,28,56.4958,S,Lost
+"Lithman, Mr. Simon",3,male,,7.55,S,Lost
+"Lobb, Mr. William Arthur",3,male,30,16.1,S,Lost
+"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",3,female,26,16.1,S,Lost
+"Lockyer, Mr. Edward",3,male,,7.8792,S,Died
+"Lovell, Mr. John Hall (""Henry"")",3,male,20.5,7.25,S,Lost
+"Lulic, Mr. Nikola",3,male,27,8.6625,S,Lived
+"Lundahl, Mr. Johan Svensson",3,male,51,7.0542,S,Lost
+"Lundin, Miss. Olga Elida",3,female,23,7.8542,S,Lived
+"Lundstrom, Mr. Thure Edvin",3,male,32,7.5792,S,Lived
+"Lyntakoff, Mr. Stanko",3,male,,7.8958,S,Lost
+"MacKay, Mr. George William",3,male,,7.55,S,Lost
+"Madigan, Miss. Margaret ""Maggie""",3,female,,7.75,Q,Lived
+"Madsen, Mr. Fridtjof Arne",3,male,24,7.1417,S,Lived
+"Maenpaa, Mr. Matti Alexanteri",3,male,22,7.125,S,Lost
+"Mahon, Miss. Bridget Delia",3,female,,7.8792,Q,Lost
+"Mahon, Mr. John",3,male,,7.75,Q,Lost
+"Maisner, Mr. Simon",3,male,,8.05,S,Lost
+"Makinen, Mr. Kalle Edvard",3,male,29,7.925,S,Lost
+"Mamee, Mr. Hanna",3,male,,7.2292,C,Lived
+"Mangan, Miss. Mary",3,female,30.5,7.75,Q,Died
+"Mannion, Miss. Margareth",3,female,,7.7375,Q,Lived
+"Mardirosian, Mr. Sarkis",3,male,,7.2292,C,Lost
+"Markoff, Mr. Marin",3,male,35,7.8958,C,Lost
+"Markun, Mr. Johann",3,male,33,7.8958,S,Lost
+"Masselmani, Mrs. Fatima",3,female,,7.225,C,Lived
+"Matinoff, Mr. Nicola",3,male,,7.8958,C,Lost
+"McCarthy, Miss. Catherine ""Katie""",3,female,,7.75,Q,Lived
+"McCormack, Mr. Thomas Joseph",3,male,,7.75,Q,Lived
+"McCoy, Miss. Agnes",3,female,,23.25,Q,Lived
+"McCoy, Miss. Alicia",3,female,,23.25,Q,Lived
+"McCoy, Mr. Bernard",3,male,,23.25,Q,Lived
+"McDermott, Miss. Brigdet Delia",3,female,,7.7875,Q,Lived
+"McEvoy, Mr. Michael",3,male,,15.5,Q,Lost
+"McGovern, Miss. Mary",3,female,,7.8792,Q,Lived
+"McGowan, Miss. Anna ""Annie""",3,female,15,8.0292,Q,Lived
+"McGowan, Miss. Katherine",3,female,35,7.75,Q,Lost
+"McMahon, Mr. Martin",3,male,,7.75,Q,Lost
+"McNamee, Mr. Neal",3,male,24,16.1,S,Lost
+"McNamee, Mrs. Neal (Eileen O'Leary)",3,female,19,16.1,S,Died
+"McNeill, Miss. Bridget",3,female,,7.75,Q,Lost
+"Meanwell, Miss. (Marion Ogden)",3,female,,8.05,S,Lost
+"Meek, Mrs. Thomas (Annie Louise Rowley)",3,female,,8.05,S,Lost
+"Meo, Mr. Alfonzo",3,male,55.5,8.05,S,Died
+"Mernagh, Mr. Robert",3,male,,7.75,Q,Lost
+"Midtsjo, Mr. Karl Albert",3,male,21,7.775,S,Lived
+"Miles, Mr. Frank",3,male,,8.05,S,Lost
+"Mineff, Mr. Ivan",3,male,24,7.8958,S,Lost
+"Minkoff, Mr. Lazar",3,male,21,7.8958,S,Lost
+"Mionoff, Mr. Stoytcho",3,male,28,7.8958,S,Lost
+"Mitkoff, Mr. Mito",3,male,,7.8958,S,Lost
+"Mockler, Miss. Helen Mary ""Ellie""",3,female,,7.8792,Q,Lived
+"Moen, Mr. Sigurd Hansen",3,male,25,7.65,S,Died
+"Moor, Master. Meier",3,male,6,12.475,S,Lived
+"Moor, Mrs. (Beila)",3,female,27,12.475,S,Lived
+"Moore, Mr. Leonard Charles",3,male,,8.05,S,Lost
+"Moran, Miss. Bertha",3,female,,24.15,Q,Lived
+"Moran, Mr. Daniel J",3,male,,24.15,Q,Lost
+"Moran, Mr. James",3,male,,8.4583,Q,Lost
+"Morley, Mr. William",3,male,34,8.05,S,Lost
+"Morrow, Mr. Thomas Rowan",3,male,,7.75,Q,Lost
+"Moss, Mr. Albert Johan",3,male,,7.775,S,Lived
+"Moubarek, Master. Gerios",3,male,,15.2458,C,Lived
+"Moubarek, Master. Halim Gonios (""William George"")",3,male,,15.2458,C,Lived
+"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",3,female,,15.2458,C,Lived
+"Moussa, Mrs. (Mantoura Boulos)",3,female,,7.2292,C,Lived
+"Moutal, Mr. Rahamin Haim",3,male,,8.05,S,Lost
+"Mullens, Miss. Katherine ""Katie""",3,female,,7.7333,Q,Lived
+"Mulvihill, Miss. Bertha E",3,female,24,7.75,Q,Lived
+"Murdlin, Mr. Joseph",3,male,,8.05,S,Lost
+"Murphy, Miss. Katherine ""Kate""",3,female,,15.5,Q,Lived
+"Murphy, Miss. Margaret Jane",3,female,,15.5,Q,Lived
+"Murphy, Miss. Nora",3,female,,15.5,Q,Lived
+"Myhrman, Mr. Pehr Fabian Oliver Malkolm",3,male,18,7.75,S,Lost
+"Naidenoff, Mr. Penko",3,male,22,7.8958,S,Lost
+"Najib, Miss. Adele Kiamie ""Jane""",3,female,15,7.225,C,Lived
+"Nakid, Miss. Maria (""Mary"")",3,female,1,15.7417,C,Lived
+"Nakid, Mr. Sahid",3,male,20,15.7417,C,Lived
+"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",3,female,19,15.7417,C,Lived
+"Nancarrow, Mr. William Henry",3,male,33,8.05,S,Lost
+"Nankoff, Mr. Minko",3,male,,7.8958,S,Lost
+"Nasr, Mr. Mustafa",3,male,,7.2292,C,Lost
+"Naughton, Miss. Hannah",3,female,,7.75,Q,Lost
+"Nenkoff, Mr. Christo",3,male,,7.8958,S,Lost
+"Nicola-Yarred, Master. Elias",3,male,12,11.2417,C,Lived
+"Nicola-Yarred, Miss. Jamila",3,female,14,11.2417,C,Lived
+"Nieminen, Miss. Manta Josefina",3,female,29,7.925,S,Lost
+"Niklasson, Mr. Samuel",3,male,28,8.05,S,Lost
+"Nilsson, Miss. Berta Olivia",3,female,18,7.775,S,Lived
+"Nilsson, Miss. Helmina Josefina",3,female,26,7.8542,S,Lived
+"Nilsson, Mr. August Ferdinand",3,male,21,7.8542,S,Lost
+"Nirva, Mr. Iisakki Antino Aijo",3,male,41,7.125,S,Lost
+"Niskanen, Mr. Juha",3,male,39,7.925,S,Lived
+"Nosworthy, Mr. Richard Cater",3,male,21,7.8,S,Lost
+"Novel, Mr. Mansouer",3,male,28.5,7.2292,C,Died
+"Nysten, Miss. Anna Sofia",3,female,22,7.75,S,Lived
+"Nysveen, Mr. Johan Hansen",3,male,61,6.2375,S,Lost
+"O'Brien, Mr. Thomas",3,male,,15.5,Q,Lost
+"O'Brien, Mr. Timothy",3,male,,7.8292,Q,Lost
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",3,female,,15.5,Q,Lived
+"O'Connell, Mr. Patrick D",3,male,,7.7333,Q,Lost
+"O'Connor, Mr. Maurice",3,male,,7.75,Q,Lost
+"O'Connor, Mr. Patrick",3,male,,7.75,Q,Lost
+"Odahl, Mr. Nils Martin",3,male,23,9.225,S,Lost
+"O'Donoghue, Ms. Bridget",3,female,,7.75,Q,Lost
+"O'Driscoll, Miss. Bridget",3,female,,7.75,Q,Lived
+"O'Dwyer, Miss. Ellen ""Nellie""",3,female,,7.8792,Q,Lived
+"Ohman, Miss. Velin",3,female,22,7.775,S,Lived
+"O'Keefe, Mr. Patrick",3,male,,7.75,Q,Lived
+"O'Leary, Miss. Hanora ""Norah""",3,female,,7.8292,Q,Lived
+"Olsen, Master. Artur Karl",3,male,9,3.1708,S,Lived
+"Olsen, Mr. Henry Margido",3,male,28,22.525,S,Died
+"Olsen, Mr. Karl Siegwart Andreas",3,male,42,8.4042,S,Lost
+"Olsen, Mr. Ole Martin",3,male,,7.3125,S,Lost
+"Olsson, Miss. Elina",3,female,31,7.8542,S,Lost
+"Olsson, Mr. Nils Johan Goransson",3,male,28,7.8542,S,Lost
+"Olsson, Mr. Oscar Wilhelm",3,male,32,7.775,S,Lived
+"Olsvigen, Mr. Thor Anderson",3,male,20,9.225,S,Died
+"Oreskovic, Miss. Jelka",3,female,23,8.6625,S,Lost
+"Oreskovic, Miss. Marija",3,female,20,8.6625,S,Lost
+"Oreskovic, Mr. Luka",3,male,20,8.6625,S,Lost
+"Osen, Mr. Olaf Elon",3,male,16,9.2167,S,Lost
+"Osman, Mrs. Mara",3,female,31,8.6833,S,Lived
+"O'Sullivan, Miss. Bridget Mary",3,female,,7.6292,Q,Lost
+"Palsson, Master. Gosta Leonard",3,male,2,21.075,S,Died
+"Palsson, Master. Paul Folke",3,male,6,21.075,S,Lost
+"Palsson, Miss. Stina Viola",3,female,3,21.075,S,Lost
+"Palsson, Miss. Torborg Danira",3,female,8,21.075,S,Lost
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",3,female,29,21.075,S,Died
+"Panula, Master. Eino Viljami",3,male,1,39.6875,S,Lost
+"Panula, Master. Juha Niilo",3,male,7,39.6875,S,Lost
+"Panula, Master. Urho Abraham",3,male,2,39.6875,S,Lost
+"Panula, Mr. Ernesti Arvid",3,male,16,39.6875,S,Lost
+"Panula, Mr. Jaako Arnold",3,male,14,39.6875,S,Lost
+"Panula, Mrs. Juha (Maria Emilia Ojala)",3,female,41,39.6875,S,Lost
+"Pasic, Mr. Jakob",3,male,21,8.6625,S,Lost
+"Patchett, Mr. George",3,male,19,14.5,S,Lost
+"Paulner, Mr. Uscher",3,male,,8.7125,C,Lost
+"Pavlovic, Mr. Stefo",3,male,32,7.8958,S,Lost
+"Peacock, Master. Alfred Edward",3,male,0.75,13.775,S,Lost
+"Peacock, Miss. Treasteall",3,female,3,13.775,S,Lost
+"Peacock, Mrs. Benjamin (Edith Nile)",3,female,26,13.775,S,Lost
+"Pearce, Mr. Ernest",3,male,,7,S,Lost
+"Pedersen, Mr. Olaf",3,male,,7.775,S,Lost
+"Peduzzi, Mr. Joseph",3,male,,8.05,S,Lost
+"Pekoniemi, Mr. Edvard",3,male,21,7.925,S,Lost
+"Peltomaki, Mr. Nikolai Johannes",3,male,25,7.925,S,Lost
+"Perkin, Mr. John Henry",3,male,22,7.25,S,Lost
+"Persson, Mr. Ernst Ulrik",3,male,25,7.775,S,Lived
+"Peter, Master. Michael J",3,male,,22.3583,C,Lived
+"Peter, Miss. Anna",3,female,,22.3583,C,Lived
+"Peter, Mrs. Catherine (Catherine Rizk)",3,female,,22.3583,C,Lived
+"Peters, Miss. Katie",3,female,,8.1375,Q,Lost
+"Petersen, Mr. Marius",3,male,24,8.05,S,Lost
+"Petranec, Miss. Matilda",3,female,28,7.8958,S,Lost
+"Petroff, Mr. Nedelio",3,male,19,7.8958,S,Lost
+"Petroff, Mr. Pastcho (""Pentcho"")",3,male,,7.8958,S,Lost
+"Petterson, Mr. Johan Emil",3,male,25,7.775,S,Lost
+"Pettersson, Miss. Ellen Natalia",3,female,18,7.775,S,Lost
+"Pickard, Mr. Berk (Berk Trembisky)",3,male,32,8.05,S,Lived
+"Plotcharsky, Mr. Vasil",3,male,,7.8958,S,Lost
+"Pokrnic, Mr. Mate",3,male,17,8.6625,S,Lost
+"Pokrnic, Mr. Tome",3,male,24,8.6625,S,Lost
+"Radeff, Mr. Alexander",3,male,,7.8958,S,Lost
+"Rasmussen, Mrs. (Lena Jacobsen Solvang)",3,female,,8.1125,S,Lost
+"Razi, Mr. Raihed",3,male,,7.2292,C,Lost
+"Reed, Mr. James George",3,male,,7.25,S,Lost
+"Rekic, Mr. Tido",3,male,38,7.8958,S,Lost
+"Reynolds, Mr. Harold J",3,male,21,8.05,S,Lost
+"Rice, Master. Albert",3,male,10,29.125,Q,Lost
+"Rice, Master. Arthur",3,male,4,29.125,Q,Lost
+"Rice, Master. Eric",3,male,7,29.125,Q,Lost
+"Rice, Master. Eugene",3,male,2,29.125,Q,Lost
+"Rice, Master. George Hugh",3,male,8,29.125,Q,Lost
+"Rice, Mrs. William (Margaret Norton)",3,female,39,29.125,Q,Died
+"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",3,female,22,39.6875,S,Lost
+"Rintamaki, Mr. Matti",3,male,35,7.125,S,Lost
+"Riordan, Miss. Johanna ""Hannah""",3,female,,7.7208,Q,Lived
+"Risien, Mr. Samuel Beard",3,male,,14.5,S,Lost
+"Risien, Mrs. Samuel (Emma)",3,female,,14.5,S,Lost
+"Robins, Mr. Alexander A",3,male,50,14.5,S,Died
+"Robins, Mrs. Alexander A (Grace Charity Laury)",3,female,47,14.5,S,Died
+"Rogers, Mr. William John",3,male,,8.05,S,Lost
+"Rommetvedt, Mr. Knud Paust",3,male,,7.775,S,Lost
+"Rosblom, Miss. Salli Helena",3,female,2,20.2125,S,Lost
+"Rosblom, Mr. Viktor Richard",3,male,18,20.2125,S,Lost
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",3,female,41,20.2125,S,Lost
+"Roth, Miss. Sarah A",3,female,,8.05,S,Lived
+"Rouse, Mr. Richard Henry",3,male,50,8.05,S,Lost
+"Rush, Mr. Alfred George John",3,male,16,8.05,S,Lost
+"Ryan, Mr. Edward",3,male,,7.75,Q,Lived
+"Ryan, Mr. Patrick",3,male,,24.15,Q,Lost
+"Saad, Mr. Amin",3,male,,7.2292,C,Lost
+"Saad, Mr. Khalil",3,male,25,7.225,C,Lost
+"Saade, Mr. Jean Nassr",3,male,,7.225,C,Lost
+"Sadlier, Mr. Matthew",3,male,,7.7292,Q,Lost
+"Sadowitz, Mr. Harry",3,male,,7.575,S,Lost
+"Saether, Mr. Simon Sivertsen",3,male,38.5,7.25,S,Died
+"Sage, Master. Thomas Henry",3,male,,69.55,S,Lost
+"Sage, Master. William Henry",3,male,14.5,69.55,S,Died
+"Sage, Miss. Ada",3,female,,69.55,S,Lost
+"Sage, Miss. Constance Gladys",3,female,,69.55,S,Lost
+"Sage, Miss. Dorothy Edith ""Dolly""",3,female,,69.55,S,Lost
+"Sage, Miss. Stella Anna",3,female,,69.55,S,Lost
+"Sage, Mr. Douglas Bullen",3,male,,69.55,S,Lost
+"Sage, Mr. Frederick",3,male,,69.55,S,Lost
+"Sage, Mr. George John Jr",3,male,,69.55,S,Lost
+"Sage, Mr. John George",3,male,,69.55,S,Lost
+"Sage, Mrs. John (Annie Bullen)",3,female,,69.55,S,Lost
+"Salander, Mr. Karl Johan",3,male,24,9.325,S,Lost
+"Salkjelsvik, Miss. Anna Kristine",3,female,21,7.65,S,Lived
+"Salonen, Mr. Johan Werner",3,male,39,7.925,S,Lost
+"Samaan, Mr. Elias",3,male,,21.6792,C,Lost
+"Samaan, Mr. Hanna",3,male,,21.6792,C,Lost
+"Samaan, Mr. Youssef",3,male,,21.6792,C,Lost
+"Sandstrom, Miss. Beatrice Irene",3,female,1,16.7,S,Lived
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",3,female,24,16.7,S,Lived
+"Sandstrom, Miss. Marguerite Rut",3,female,4,16.7,S,Lived
+"Sap, Mr. Julius",3,male,25,9.5,S,Lived
+"Saundercock, Mr. William Henry",3,male,20,8.05,S,Lost
+"Sawyer, Mr. Frederick Charles",3,male,24.5,8.05,S,Died
+"Scanlan, Mr. James",3,male,,7.725,Q,Lost
+"Sdycoff, Mr. Todor",3,male,,7.8958,S,Lost
+"Shaughnessy, Mr. Patrick",3,male,,7.75,Q,Lost
+"Sheerlinck, Mr. Jan Baptist",3,male,29,9.5,S,Lived
+"Shellard, Mr. Frederick William",3,male,,15.1,S,Lost
+"Shine, Miss. Ellen Natalia",3,female,,7.7792,Q,Lived
+"Shorney, Mr. Charles Joseph",3,male,,8.05,S,Lost
+"Simmons, Mr. John",3,male,,8.05,S,Lost
+"Sirayanian, Mr. Orsen",3,male,22,7.2292,C,Lost
+"Sirota, Mr. Maurice",3,male,,8.05,S,Lost
+"Sivic, Mr. Husein",3,male,40,7.8958,S,Lost
+"Sivola, Mr. Antti Wilhelm",3,male,21,7.925,S,Lost
+"Sjoblom, Miss. Anna Sofia",3,female,18,7.4958,S,Lived
+"Skoog, Master. Harald",3,male,4,27.9,S,Lost
+"Skoog, Master. Karl Thorsten",3,male,10,27.9,S,Lost
+"Skoog, Miss. Mabel",3,female,9,27.9,S,Lost
+"Skoog, Miss. Margit Elizabeth",3,female,2,27.9,S,Lost
+"Skoog, Mr. Wilhelm",3,male,40,27.9,S,Lost
+"Skoog, Mrs. William (Anna Bernhardina Karlsson)",3,female,45,27.9,S,Lost
+"Slabenoff, Mr. Petco",3,male,,7.8958,S,Lost
+"Slocovski, Mr. Selman Francis",3,male,,8.05,S,Lost
+"Smiljanic, Mr. Mile",3,male,,8.6625,S,Lost
+"Smith, Mr. Thomas",3,male,,7.75,Q,Lost
+"Smyth, Miss. Julia",3,female,,7.7333,Q,Lived
+"Soholt, Mr. Peter Andreas Lauritz Andersen",3,male,19,7.65,S,Lost
+"Somerton, Mr. Francis William",3,male,30,8.05,S,Lost
+"Spector, Mr. Woolf",3,male,,8.05,S,Lost
+"Spinner, Mr. Henry John",3,male,32,8.05,S,Lost
+"Staneff, Mr. Ivan",3,male,,7.8958,S,Lost
+"Stankovic, Mr. Ivan",3,male,33,8.6625,C,Lost
+"Stanley, Miss. Amy Zillah Elsie",3,female,23,7.55,S,Lived
+"Stanley, Mr. Edward Roland",3,male,21,8.05,S,Lost
+"Storey, Mr. Thomas",3,male,60.5,,S,Died
+"Stoytcheff, Mr. Ilia",3,male,19,7.8958,S,Lost
+"Strandberg, Miss. Ida Sofia",3,female,22,9.8375,S,Lost
+"Stranden, Mr. Juho",3,male,31,7.925,S,Lived
+"Strilic, Mr. Ivan",3,male,27,8.6625,S,Lost
+"Strom, Miss. Telma Matilda",3,female,2,10.4625,S,Lost
+"Strom, Mrs. Wilhelm (Elna Matilda Persson)",3,female,29,10.4625,S,Lost
+"Sunderland, Mr. Victor Francis",3,male,16,8.05,S,Lived
+"Sundman, Mr. Johan Julian",3,male,44,7.925,S,Lived
+"Sutehall, Mr. Henry Jr",3,male,25,7.05,S,Lost
+"Svensson, Mr. Johan",3,male,74,7.775,S,Lost
+"Svensson, Mr. Johan Cervin",3,male,14,9.225,S,Lived
+"Svensson, Mr. Olof",3,male,24,7.7958,S,Lost
+"Tenglin, Mr. Gunnar Isidor",3,male,25,7.7958,S,Lived
+"Theobald, Mr. Thomas Leonard",3,male,34,8.05,S,Died
+"Thomas, Master. Assad Alexander",3,male,0.4167,8.5167,C,Lived
+"Thomas, Mr. Charles P",3,male,,6.4375,C,Lost
+"Thomas, Mr. John",3,male,,6.4375,C,Lost
+"Thomas, Mr. Tannous",3,male,,7.225,C,Lost
+"Thomas, Mrs. Alexander (Thamine ""Thelma"")",3,female,16,8.5167,C,Lived
+"Thomson, Mr. Alexander Morrison",3,male,,8.05,S,Lost
+"Thorneycroft, Mr. Percival",3,male,,16.1,S,Lost
+"Thorneycroft, Mrs. Percival (Florence Kate White)",3,female,,16.1,S,Lived
+"Tikkanen, Mr. Juho",3,male,32,7.925,S,Lost
+"Tobin, Mr. Roger",3,male,,7.75,Q,Lost
+"Todoroff, Mr. Lalio",3,male,,7.8958,S,Lost
+"Tomlin, Mr. Ernest Portage",3,male,30.5,8.05,S,Died
+"Torber, Mr. Ernst William",3,male,44,8.05,S,Lost
+"Torfa, Mr. Assad",3,male,,7.2292,C,Lost
+"Tornquist, Mr. William Henry",3,male,25,0,S,Lived
+"Toufik, Mr. Nakli",3,male,,7.2292,C,Lost
+"Touma, Master. Georges Youssef",3,male,7,15.2458,C,Lived
+"Touma, Miss. Maria Youssef",3,female,9,15.2458,C,Lived
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",3,female,29,15.2458,C,Lived
+"Turcin, Mr. Stjepan",3,male,36,7.8958,S,Lost
+"Turja, Miss. Anna Sofia",3,female,18,9.8417,S,Lived
+"Turkula, Mrs. (Hedwig)",3,female,63,9.5875,S,Lived
+"van Billiard, Master. James William",3,male,,14.5,S,Lost
+"van Billiard, Master. Walter John",3,male,11.5,14.5,S,Died
+"van Billiard, Mr. Austin Blyler",3,male,40.5,14.5,S,Died
+"Van Impe, Miss. Catharina",3,female,10,24.15,S,Lost
+"Van Impe, Mr. Jean Baptiste",3,male,36,24.15,S,Lost
+"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",3,female,30,24.15,S,Lost
+"van Melkebeke, Mr. Philemon",3,male,,9.5,S,Lost
+"Vande Velde, Mr. Johannes Joseph",3,male,33,9.5,S,Lost
+"Vande Walle, Mr. Nestor Cyriel",3,male,28,9.5,S,Lost
+"Vanden Steen, Mr. Leo Peter",3,male,28,9.5,S,Lost
+"Vander Cruyssen, Mr. Victor",3,male,47,9,S,Lost
+"Vander Planke, Miss. Augusta Maria",3,female,18,18,S,Lost
+"Vander Planke, Mr. Julius",3,male,31,18,S,Lost
+"Vander Planke, Mr. Leo Edmondus",3,male,16,18,S,Lost
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",3,female,31,18,S,Lost
+"Vartanian, Mr. David",3,male,22,7.225,C,Lived
+"Vendel, Mr. Olof Edvin",3,male,20,7.8542,S,Lost
+"Vestrom, Miss. Hulda Amanda Adolfina",3,female,14,7.8542,S,Lost
+"Vovk, Mr. Janko",3,male,22,7.8958,S,Lost
+"Waelens, Mr. Achille",3,male,22,9,S,Lost
+"Ware, Mr. Frederick",3,male,,8.05,S,Lost
+"Warren, Mr. Charles William",3,male,,7.55,S,Lost
+"Webber, Mr. James",3,male,,8.05,S,Lost
+"Wenzel, Mr. Linhart",3,male,32.5,9.5,S,Died
+"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",3,female,38,7.2292,C,Lived
+"Widegren, Mr. Carl/Charles Peter",3,male,51,7.75,S,Lost
+"Wiklund, Mr. Jakob Alfred",3,male,18,6.4958,S,Died
+"Wiklund, Mr. Karl Johan",3,male,21,6.4958,S,Lost
+"Wilkes, Mrs. James (Ellen Needs)",3,female,47,7,S,Lived
+"Willer, Mr. Aaron (""Abi Weller"")",3,male,,8.7125,S,Lost
+"Willey, Mr. Edward",3,male,,7.55,S,Lost
+"Williams, Mr. Howard Hugh ""Harry""",3,male,,8.05,S,Lost
+"Williams, Mr. Leslie",3,male,28.5,16.1,S,Died
+"Windelov, Mr. Einar",3,male,21,7.25,S,Lost
+"Wirz, Mr. Albert",3,male,27,8.6625,S,Died
+"Wiseman, Mr. Phillippe",3,male,,7.25,S,Lost
+"Wittevrongel, Mr. Camille",3,male,36,9.5,S,Lost
+"Yasbeck, Mr. Antoni",3,male,27,14.4542,C,Lost
+"Yasbeck, Mrs. Antoni (Selini Alexander)",3,female,15,14.4542,C,Lived
+"Youseff, Mr. Gerious",3,male,45.5,7.225,C,Died
+"Yousif, Mr. Wazli",3,male,,7.225,C,Lost
+"Yousseff, Mr. Gerious",3,male,,14.4583,C,Lost
+"Zabour, Miss. Hileni",3,female,14.5,14.4542,C,Died
+"Zabour, Miss. Thamine",3,female,,14.4542,C,Lost
+"Zakarian, Mr. Mapriededer",3,male,26.5,7.225,C,Died
+"Zakarian, Mr. Ortin",3,male,27,7.225,C,Lost
+"Zimmerman, Mr. Leo",3,male,29,7.875,S,Lost
