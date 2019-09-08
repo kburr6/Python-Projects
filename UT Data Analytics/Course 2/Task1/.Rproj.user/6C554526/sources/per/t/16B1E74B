@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567962339351.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2147015495",
+    "id" : "16B1E74B",
+    "lastKnownWriteTime" : 1567969977,
+    "last_content_update" : 1567969977621,
+    "path" : "~/Python Projects/UT Data Analytics/Course 2/Task1/IrisPredictionsScript_Corrected.R",
+    "project_path" : "IrisPredictionsScript_Corrected.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
