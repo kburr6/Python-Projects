@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569598157875.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3444629742",
+    "id" : "5C6D0514",
+    "lastKnownWriteTime" : 1570086310,
+    "last_content_update" : 1570086310029,
+    "path" : "C:/Users/kburr/Desktop/UT Data Analytics Program/Course 2/Task3/C2T3 Pipeline.R",
+    "project_path" : "C2T3 Pipeline.R",
+    "properties" : {
+        "cursorPosition" : "227,27",
+        "scrollLine" : "220"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
