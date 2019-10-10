@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570601233102.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "509455192",
+    "id" : "75F5B920",
+    "lastKnownWriteTime" : 1570727396,
+    "last_content_update" : 1570727396357,
+    "path" : "C:/Users/kburr/Desktop/UT Data Analytics Program/Course 2 - Predicting Customer Preferences/Task4 - Basket Analysis with Apriori/C2T4 Pipeline.R",
+    "project_path" : "C2T4 Pipeline.R",
+    "properties" : {
+        "cursorPosition" : "184,0",
+        "scrollLine" : "173"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
