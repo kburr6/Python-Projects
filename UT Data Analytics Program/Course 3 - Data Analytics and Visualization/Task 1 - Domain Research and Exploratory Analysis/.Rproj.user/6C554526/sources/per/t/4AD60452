@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573434967351.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3024018100",
+    "id" : "4AD60452",
+    "lastKnownWriteTime" : 1573625396,
+    "last_content_update" : 1573625396933,
+    "path" : "C:/Users/kburr/Desktop/UT Data Analytics Program/Course 3 - Data Analytics and Visualization/Task 1 - Domain Research and Exploratory Analysis/C3T1 Pipeline.R",
+    "project_path" : "C3T1 Pipeline.R",
+    "properties" : {
+        "cursorPosition" : "238,0",
+        "scrollLine" : "226"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
