@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578846918519.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3413644628",
+    "id" : "A70E4B6",
+    "lastKnownWriteTime" : 1579272629,
+    "last_content_update" : 1579272629825,
+    "path" : "C:/Users/kburr/Desktop/UT Data Analytics Program/Course 3 - Data Analytics and Visualization/Task 3 - Evaluate Techniques for WiFi Locationing/C3T3 Pipeline.R",
+    "project_path" : "C3T3 Pipeline.R",
+    "properties" : {
+        "cursorPosition" : "629,0",
+        "scrollLine" : "617"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
