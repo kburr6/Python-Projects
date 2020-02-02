@@ -1,0 +1,2 @@
+aws emr create-cluster --name “kburr-analytics-cluster” --ec2-attributes SubnetId=subnet-31fc5f7c --release-label emr-5.4.0 --auto-terminate --log-uri s3://kburr-debug-logs/ --use-default-roles --enable-debugging --instance-groups InstanceGroupType=MASTER,InstanceCount=1,InstanceType=c4.large InstanceGroupType=CORE,InstanceCount=3,InstanceType=c4.large --steps file://1-100JsonWetPaths.json
+
