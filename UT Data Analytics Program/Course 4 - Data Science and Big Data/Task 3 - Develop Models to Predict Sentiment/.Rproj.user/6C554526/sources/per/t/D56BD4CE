@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583117717983.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1543796552",
+    "id" : "D56BD4CE",
+    "lastKnownWriteTime" : 1583120363,
+    "last_content_update" : 1583120363195,
+    "path" : "C:/Users/kburr/Desktop/UT Data Analytics Program/Course 4 - Data Science and Big Data/Task 3 - Develop Models to Predict Sentiment/C4T3 Pipeline - galaxy.R",
+    "project_path" : "C4T3 Pipeline - galaxy.R",
+    "properties" : {
+        "cursorPosition" : "1710,2",
+        "scrollLine" : "1700"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

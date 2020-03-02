@@ -1,0 +1,168 @@
+[1] "##########################"
+[1] "c50Fit1"
+[1] "##########################"
+
+Call:
+(function (x, y, trials = 1, rules = FALSE, weights = NULL, control = C5.0Control(), costs
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0,
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+
+
+C5.0 [Release 2.07 GPL Edition]  	Mon Feb 24 22:55:49 2020
+-------------------------------
+
+Class specified by attribute `outcome'
+
+Read 9039 cases (59 attributes) from undefined.data
+
+Rules:
+
+Rule 1: (583/43, lift 5.7)
+	iphone <= 0
+	googleandroid <= 0
+	samsungcamunc <= 0
+	samsungdisneg <= 0
+	->  class 1  [0.925]
+
+Rule 2: (606/49, lift 5.7)
+	iphone <= 0
+	googleandroid <= 0
+	samsungperneg <= 0
+	->  class 1  [0.918]
+
+Rule 3: (153/12, lift 5.7)
+	iphone <= 2
+	sonyxperia <= 0
+	ios <= 0
+	googleandroid <= 0
+	htccampos > 0
+	->  class 1  [0.916]
+
+Rule 4: (175/22, lift 5.4)
+	sonyxperia > 0
+	iphoneperpos <= 0
+	samsungperneg <= 4
+	->  class 1  [0.870]
+
+Rule 5: (114/20, lift 5.1)
+	samsunggalaxy > 0
+	iphonecamunc > 0
+	->  class 1  [0.819]
+
+Rule 6: (270/50, lift 5.0)
+	sonyxperia <= 0
+	htccampos > 0
+	->  class 1  [0.813]
+
+Rule 7: (43/7, lift 23.6)
+	iphone <= 0
+	googleandroid > 0
+	->  class 2  [0.822]
+
+Rule 8: (138/15, lift 9.7)
+	iphone > 0
+	samsunggalaxy > 0
+	sonyxperia <= 0
+	iphonecamunc <= 0
+	iphonedispos <= 0
+	iphoneperpos <= 0
+	->  class 3  [0.886]
+
+Rule 9: (181/20, lift 9.7)
+	iphone <= 1
+	samsunggalaxy <= 0
+	iphonecampos <= 0
+	iphonedispos > 0
+	iphonedisneg <= 0
+	iphoneperpos <= 0
+	->  class 3  [0.885]
+
+Rule 10: (90/10, lift 9.7)
+	iphone <= 1
+	iphonecamneg <= 0
+	iphonedispos > 0
+	iphonedispos <= 1
+	iphonedisunc > 0
+	iphoneperneg <= 0
+	iphoneperunc <= 0
+	->  class 3  [0.880]
+
+Rule 11: (104/12, lift 9.6)
+	iphone > 0
+	googleandroid > 0
+	iphoneperpos <= 0
+	->  class 3  [0.877]
+
+Rule 12: (170/29, lift 9.1)
+	iphone <= 2
+	samsunggalaxy <= 0
+	iphonecamneg <= 0
+	iphonedisneg <= 0
+	iphonedisunc > 0
+	iphoneperneg <= 0
+	iphoneperunc <= 0
+	->  class 3  [0.826]
+
+Rule 13: (647/109, lift 1.2)
+	iphone > 2
+	samsungperneg <= 4
+	->  class 4  [0.831]
+
+Rule 14: (1747/295, lift 1.2)
+	iphoneperpos > 0
+	samsungperneg <= 4
+	->  class 4  [0.831]
+
+Rule 15: (8791/2381, lift 1.0)
+	googleandroid <= 0
+	->  class 4  [0.729]
+
+Default class: 4
+
+
+Evaluation on training data (9039 cases):
+
+	        Rules     
+	  ----------------
+	    No      Errors
+
+	    15 1407(15.6%)   <<
+
+
+	   (a)   (b)   (c)   (d)    <-classified as
+	  ----  ----  ----  ----
+	   809     1     8   637    (a): class 1
+	     3    36     1   275    (b): class 2
+	    11     1   479   332    (c): class 3
+	    72     5    61  6308    (d): class 4
+
+
+	Attribute usage:
+
+	 98.88%	googleandroid
+	 33.64%	samsungperneg
+	 25.93%	iphoneperpos
+	 21.12%	iphone
+	  6.45%	sonyxperia
+	  6.45%	samsungcamunc
+	  6.45%	samsungdisneg
+	  5.99%	samsunggalaxy
+	  4.06%	iphonedispos
+	  3.20%	iphonedisneg
+	  2.99%	htccampos
+	  2.79%	iphonecamunc
+	  2.26%	iphonecamneg
+	  2.26%	iphonedisunc
+	  2.26%	iphoneperneg
+	  2.26%	iphoneperunc
+	  2.00%	iphonecampos
+	  1.69%	ios
+
+
+Time: 0.1 secs
+
+[1] "##########################"
+[1] "c50Pred1 Results"
+[1] "##########################"
+   1    2    3    4 
+ 402   21  234 3215 

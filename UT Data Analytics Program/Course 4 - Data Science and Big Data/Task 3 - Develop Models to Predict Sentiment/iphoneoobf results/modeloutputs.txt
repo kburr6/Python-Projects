@@ -1,0 +1,402 @@
+[1] "##########################"
+[1] "rfFit1"
+[1] "##########################"
+                Length Class      Mode     
+call                5  -none-     call     
+type                1  -none-     character
+predicted        9083  factor     numeric  
+err.rate         3500  -none-     numeric  
+confusion          42  -none-     numeric  
+votes           54498  matrix     numeric  
+oob.times        9083  -none-     numeric  
+classes             6  -none-     character
+importance        464  -none-     numeric  
+importanceSD      406  -none-     numeric  
+localImportance     0  -none-     NULL     
+proximity           0  -none-     NULL     
+ntree               1  -none-     numeric  
+mtry                1  -none-     numeric  
+forest             14  -none-     list     
+y                9083  factor     numeric  
+test                0  -none-     NULL     
+inbag               0  -none-     NULL     
+xNames             58  -none-     character
+problemType         1  -none-     character
+tuneValue           1  data.frame list     
+obsLevels           6  -none-     character
+param               1  -none-     list     
+[1] "##########################"
+[1] "kknnFit1"
+[1] "##########################"
+
+Call:
+kknn::train.kknn(formula = .outcome ~ ., data = dat, kmax = param$kmax,     distance = param$distance, kernel = as.character(param$kernel))
+
+Type of response variable: nominal
+Minimal misclassification: 0.6556204
+Best kernel: optimal
+Best k: 9
+[1] "##########################"
+[1] "c50Fit1"
+[1] "##########################"
+
+Call:
+(function (x, y, trials = 1, rules = FALSE, weights = NULL, control
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 
+
+
+C5.0 [Release 2.07 GPL Edition]  	Mon Feb 24 02:32:55 2020
+-------------------------------
+
+Class specified by attribute `outcome'
+
+Read 9083 cases (59 attributes) from undefined.data
+
+34 attributes winnowed
+Estimated importance of remaining attributes:
+
+     28%  iphone
+     12%  iphonedisneg
+      7%  sonyxperia
+      7%  googleandroid
+      6%  iphonedispos
+      6%  samsunggalaxy
+      5%  iphonedisunc
+      4%  samsungcamneg
+      4%  iphoneperpos
+      2%  htccampos
+      1%  iphonecampos
+     <1%  iphoneperunc
+     <1%  iphonecamneg
+     <1%  ios
+     <1%  samsungcamunc
+     <1%  iphoneperneg
+     <1%  htcphone
+     <1%  samsungdispos
+     <1%  samsungdisneg
+     <1%  htcdisneg
+     <1%  samsungdisunc
+     <1%  samsungperneg
+     <1%  iosperpos
+     <1%  iosperunc
+
+Rules:
+
+Rule 1: (310, lift 6.6)
+	iphone <= 0
+	htcphone > 0
+	->  class 0  [0.997]
+
+Rule 2: (630/4, lift 6.6)
+	iphone <= 0
+	googleandroid <= 0
+	samsungperneg <= 0
+	->  class 0  [0.992]
+
+Rule 3: (146/2, lift 6.5)
+	iphone > 1
+	iphone <= 2
+	sonyxperia > 0
+	iphoneperpos <= 0
+	->  class 0  [0.980]
+
+Rule 4: (84/2, lift 6.4)
+	iphone > 0
+	samsungcamneg > 0
+	iphonedispos <= 3
+	->  class 0  [0.965]
+
+Rule 5: (11, lift 6.1)
+	sonyxperia > 0
+	samsungcamunc > 0
+	iphoneperunc <= 0
+	->  class 0  [0.923]
+
+Rule 6: (7, lift 5.9)
+	iphonecamneg > 0
+	iphonedispos > 0
+	iphonedisunc <= 0
+	iphoneperpos > 4
+	->  class 0  [0.889]
+
+Rule 7: (92/11, lift 5.8)
+	googleandroid > 0
+	iphonedisneg > 0
+	->  class 0  [0.872]
+
+Rule 8: (19/2, lift 5.7)
+	samsungcamneg <= 0
+	samsungcamunc > 0
+	iphonedispos <= 0
+	->  class 0  [0.857]
+
+Rule 9: (263/39, lift 5.6)
+	sonyxperia <= 0
+	htccampos > 0
+	->  class 0  [0.849]
+
+Rule 10: (4, lift 5.5)
+	samsunggalaxy > 3
+	->  class 0  [0.833]
+
+Rule 11: (16/4, lift 4.8)
+	iphone <= 1
+	iphonecamneg > 1
+	iphonedispos > 0
+	iphonedisunc <= 0
+	iphoneperpos > 0
+	->  class 0  [0.722]
+
+Rule 12: (45, lift 28.0)
+	iphone <= 0
+	htcphone <= 0
+	googleandroid > 0
+	->  class 2  [0.979]
+
+Rule 13: (117/1, lift 10.7)
+	iphone <= 1
+	samsunggalaxy <= 0
+	iphonecamneg <= 0
+	iphonedisneg <= 0
+	iphonedisunc > 0
+	iphoneperpos <= 0
+	iphoneperneg <= 0
+	iphoneperunc <= 0
+	->  class 3  [0.983]
+
+Rule 14: (162/2, lift 10.7)
+	iphone <= 1
+	samsunggalaxy <= 0
+	iphonecampos <= 0
+	iphonedispos > 0
+	iphonedispos <= 2
+	iphonedisneg <= 0
+	iphoneperpos <= 0
+	iphoneperunc <= 0
+	->  class 3  [0.982]
+
+Rule 15: (81/1, lift 10.7)
+	iphone <= 1
+	iphonecamneg <= 0
+	iphonedispos > 0
+	iphonedispos <= 1
+	iphonedisunc > 0
+	iphoneperpos <= 0
+	iphoneperunc <= 0
+	->  class 3  [0.976]
+
+Rule 16: (115/2, lift 10.6)
+	iphone <= 2
+	samsunggalaxy <= 0
+	iphonecamneg <= 0
+	iphonedisneg <= 0
+	iphonedisunc > 0
+	iphonedisunc <= 1
+	iphoneperpos <= 0
+	iphoneperneg <= 0
+	iphoneperunc <= 0
+	->  class 3  [0.974]
+
+Rule 17: (102/2, lift 10.6)
+	iphone > 0
+	googleandroid > 0
+	iphoneperpos <= 0
+	->  class 3  [0.971]
+
+Rule 18: (143/9, lift 10.2)
+	iphone > 0
+	samsunggalaxy > 0
+	samsunggalaxy <= 3
+	sonyxperia <= 0
+	samsungcamunc <= 0
+	iphoneperpos <= 0
+	->  class 3  [0.931]
+
+Rule 19: (6, lift 9.6)
+	iphone > 6
+	iphone <= 8
+	googleandroid <= 0
+	htccampos > 0
+	->  class 3  [0.875]
+
+Rule 20: (11/2, lift 8.4)
+	iphone <= 2
+	sonyxperia <= 0
+	googleandroid <= 0
+	iphonecampos <= 1
+	htccampos > 0
+	iphoneperunc > 0
+	->  class 3  [0.769]
+
+Rule 21: (4/2, lift 5.5)
+	iphone > 2
+	sonyxperia > 0
+	->  class 3  [0.500]
+
+Rule 22: (8391/7560, lift 1.1)
+	iphone > 0
+	->  class 3  [0.099]
+
+Rule 23: (184, lift 9.0)
+	iphonecampos > 0
+	iphonecampos <= 2
+	htccampos <= 0
+	iphonecamneg > 0
+	iphonedispos > 0
+	iphonedisunc > 0
+	iphoneperpos <= 0
+	->  class 4  [0.995]
+
+Rule 24: (173, lift 9.0)
+	iphone > 7
+	iphonedisneg <= 4
+	iphonedisunc > 0
+	iphoneperpos <= 0
+	->  class 4  [0.994]
+
+Rule 25: (174, lift 9.0)
+	ios > 3
+	->  class 4  [0.994]
+
+Rule 26: (12/1, lift 7.7)
+	iphone > 2
+	iphone <= 6
+	htccampos > 0
+	->  class 4  [0.857]
+
+Rule 27: (4, lift 7.5)
+	iphone <= 0
+	samsungcamunc > 1
+	samsungperneg > 0
+	->  class 4  [0.833]
+
+Rule 28: (9/1, lift 7.4)
+	iphone > 1
+	sonyxperia <= 0
+	googleandroid > 0
+	samsungcamneg <= 0
+	iphonedisneg > 0
+	->  class 4  [0.818]
+
+Rule 29: (3, lift 7.2)
+	iphonecamneg > 0
+	iphonedispos > 0
+	iphonedisneg <= 0
+	iphonedisunc <= 0
+	iphoneperpos <= 0
+	->  class 4  [0.800]
+
+Rule 30: (3, lift 7.2)
+	samsungcamneg <= 0
+	samsungcamunc > 0
+	iphoneperunc > 0
+	->  class 4  [0.800]
+
+Rule 31: (11/3, lift 6.2)
+	sonyxperia <= 0
+	googleandroid > 0
+	samsungcamneg <= 0
+	iphonedisneg > 0
+	->  class 4  [0.692]
+
+Rule 32: (219/76, lift 5.9)
+	htccampos <= 0
+	iphonedisneg > 4
+	->  class 4  [0.652]
+
+Rule 33: (21/7, lift 5.9)
+	iphone > 2
+	htccampos > 0
+	samsungcamneg <= 0
+	->  class 4  [0.652]
+
+Rule 34: (69/13, lift 1.4)
+	iphonecampos <= 0
+	iphonedisneg > 4
+	htcdisneg <= 2
+	->  class 5  [0.803]
+
+Rule 35: (197/57, lift 1.2)
+	iphonecamneg <= 0
+	iphonedispos <= 0
+	iphonedisneg > 0
+	->  class 5  [0.709]
+
+Rule 36: (8772/3556, lift 1.0)
+	iphonedisneg <= 4
+	->  class 5  [0.595]
+
+Default class: 5
+
+
+Evaluation on training data (9083 cases):
+
+	        Rules     
+	  ----------------
+	    No      Errors
+
+	    36 1985(21.9%)   <<
+
+
+	   (a)   (b)   (c)   (d)   (e)   (f)    <-classified as
+	  ----  ----  ----  ----  ----  ----
+	   913                 4     3   454    (a): class 0
+	                       1         272    (b): class 1
+	                45     4     1   268    (c): class 2
+	     2               541     2   287    (d): class 3
+	     8                 3   347   650    (e): class 4
+	    11                 8     7  5252    (f): class 5
+
+
+	Attribute usage:
+
+	 99.89%	iphone
+	 99.88%	iphonedisneg
+	  9.84%	iphoneperpos
+	  9.75%	googleandroid
+	  7.85%	iphonedispos
+	  7.30%	htccampos
+	  6.98%	samsungperneg
+	  6.37%	iphonecamneg
+	  6.24%	sonyxperia
+	  4.69%	iphonecampos
+	  4.47%	samsunggalaxy
+	  4.23%	iphonedisunc
+	  3.91%	htcphone
+	  3.52%	iphoneperunc
+	  1.93%	samsungcamunc
+	  1.92%	ios
+	  1.52%	iphoneperneg
+	  1.48%	samsungcamneg
+	  0.76%	htcdisneg
+
+
+Time: 0.3 secs
+
+[1] "##########################"
+[1] "svmFit1"
+[1] "##########################"
+
+Call:
+svm.default(x = as.matrix(x), y = y, kernel = "linear", cost = param$cost, 
+    probability = classProbs)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  0.5 
+
+Number of Support Vectors:  4830
+
+ ( 965 852 772 317 273 1651 )
+
+
+Number of Classes:  6 
+
+Levels: 
+ 0 1 2 3 4 5
+
+
+

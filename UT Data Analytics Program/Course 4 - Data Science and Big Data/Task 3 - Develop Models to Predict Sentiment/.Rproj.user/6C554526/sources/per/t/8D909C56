@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583119782853.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2403319426",
+    "id" : "8D909C56",
+    "lastKnownWriteTime" : 1583113050,
+    "last_content_update" : 1583113050,
+    "path" : "C:/Users/kburr/Desktop/UT Data Analytics Program/Course 4 - Data Science and Big Data/Task 3 - Develop Models to Predict Sentiment/C4T3 Pipeline - iphone.R",
+    "project_path" : "C4T3 Pipeline - iphone.R",
+    "properties" : {
+        "cursorPosition" : "1981,0",
+        "scrollLine" : "1961"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

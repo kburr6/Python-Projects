@@ -1,0 +1,32 @@
+[1] "##########################"
+[1] "rfFit1"
+[1] "##########################"
+                Length Class      Mode     
+call                5  -none-     call     
+type                1  -none-     character
+predicted        9083  factor     numeric  
+err.rate         2500  -none-     numeric  
+confusion          20  -none-     numeric  
+votes           36332  matrix     numeric  
+oob.times        9083  -none-     numeric  
+classes             4  -none-     character
+importance        354  -none-     numeric  
+importanceSD      295  -none-     numeric  
+localImportance     0  -none-     NULL     
+proximity           0  -none-     NULL     
+ntree               1  -none-     numeric  
+mtry                1  -none-     numeric  
+forest             14  -none-     list     
+y                9083  factor     numeric  
+test                0  -none-     NULL     
+inbag               0  -none-     NULL     
+xNames             59  -none-     character
+problemType         1  -none-     character
+tuneValue           1  data.frame list     
+obsLevels           4  -none-     character
+param               1  -none-     list     
+[1] "##########################"
+[1] "rfPred1 Results"
+[1] "##########################"
+   1    2    3    4 
+ 699  136  367 2688 
